@@ -52,13 +52,18 @@ export class SpectrumPagesComponent implements OnInit {
   /** Website loading boolean */
   loaded: boolean = false;
   /** country variable from request_uri */
-  country: string = "";
+  longitude: number = 0;
   /** region variable from request_uri   */
-  region: string = "";
+  latitude: number = 0;
   /** Frequencies Array. Save data to this varialble after data loaded */
   frequencies: Frequencies[] = [];
   /** Error Message String */
   error: string = "";
+
+  //@ts-ignore
+  region: string = null;
+  //@ts-ignore
+  country: string = null;
 
   /**
    * Run functions when site loads
@@ -66,7 +71,7 @@ export class SpectrumPagesComponent implements OnInit {
    * * Load then doGetCountryData() to get country data
    */
   ngOnInit(): void {
-    this.titleService.setTitle('MobileSpectrum');
+    this.titleService.setTitle('MobileSpectrum Canada');
     this.metaTagService.updateTag({ name: 'description', content: 'Check here your country\'s mobile network spectrum allocation' });
 
     this.metaTagService.updateTag({ property: 'og:title', content: 'MobileSpectrum' });
@@ -74,21 +79,25 @@ export class SpectrumPagesComponent implements OnInit {
 
     this.metaTagService.updateTag({ name: 'twitter:title', content: 'MobileSpectrum' });
     this.metaTagService.updateTag({ name: 'twitter:description', content: 'Check here your country\'s mobile network spectrum allocation' });
-    this.route.params.subscribe(params => {
-      this.country = params['country'];
-      this.region = params['region'];
-      this.doGetCountryData(this.country, this.region);
-      if (this.country != null) {
+
+    this.route.queryParams.subscribe(params => {
+      /*this.longitude = params['lng'];
+      this.latitude = params['lat'];*/
+      this.longitude = -73.659417;
+      this.latitude = 45.529600;
+      this.doGetCountryData(this.longitude, this.latitude);
+
+      /*if (this.country != null) {
         this.country = this.country.split('_').join(' ');
         this.country = this.country.replace(/(^.|\s\w)/g, m => m.toUpperCase());
 
         this.titleService.setTitle(this.country + ' | MobileSpectrum');
-        this.metaTagService.updateTag({ name: 'description', content: 'Mobile Spectrum allocation of ' + this.country});
+        this.metaTagService.updateTag({ name: 'description', content: 'Mobile Spectrum allocation of ' + this.country });
 
         this.metaTagService.updateTag({ property: 'og:title', content: this.country + ' | MobileSpectrum' });
         this.metaTagService.updateTag({ property: 'og:description', content: 'Mobile Spectrum allocation of ' + this.country });
 
-        this.metaTagService.updateTag({ name: 'twitter:title', content: this.country + ' | MobileSpectrum'  });
+        this.metaTagService.updateTag({ name: 'twitter:title', content: this.country + ' | MobileSpectrum' });
         this.metaTagService.updateTag({ name: 'twitter:description', content: 'Mobile Spectrum allocation of ' + this.country });
 
         if (this.region != null) {
@@ -96,15 +105,15 @@ export class SpectrumPagesComponent implements OnInit {
           this.region = this.region.replace(/(^.|\s\w)/g, m => m.toUpperCase());
 
           this.titleService.setTitle(this.country + ' / ' + this.region + ' | MobileSpectrum');
-          this.metaTagService.updateTag({ name: 'description', content: 'Mobile Spectrum allocation of ' + this.country + ' / ' + this.region});
+          this.metaTagService.updateTag({ name: 'description', content: 'Mobile Spectrum allocation of ' + this.country + ' / ' + this.region });
 
           this.metaTagService.updateTag({ property: 'og:title', content: this.country + ' / ' + this.region + ' | MobileSpectrum' });
-          this.metaTagService.updateTag({ property: 'og:description', content: 'Mobile Spectrum allocation of ' + this.country + ' / ' + this.region});
+          this.metaTagService.updateTag({ property: 'og:description', content: 'Mobile Spectrum allocation of ' + this.country + ' / ' + this.region });
 
-          this.metaTagService.updateTag({ name: 'twitter:title', content: this.country + ' / ' + this.region + ' | MobileSpectrum'  });
-          this.metaTagService.updateTag({ name: 'twitter:description', content: 'Mobile Spectrum allocation of ' + this.country + ' /( ' + this.region});
+          this.metaTagService.updateTag({ name: 'twitter:title', content: this.country + ' / ' + this.region + ' | MobileSpectrum' });
+          this.metaTagService.updateTag({ name: 'twitter:description', content: 'Mobile Spectrum allocation of ' + this.country + ' /( ' + this.region });
         }
-      }
+      }*/
     })
   }
 
@@ -120,7 +129,7 @@ export class SpectrumPagesComponent implements OnInit {
     { band: 7, type: 'FDD', frequency: 2600, name: '2600 MHz' },
     { band: 8, type: 'FDD', frequency: 900, name: '900 MHz' },
     { band: 9, type: 'FDD', frequency: 1800, name: '1800 MHz' },
-    { band: 11, type: 'FDD', frequency: 1500, name: '1500 MHz'},
+    { band: 11, type: 'FDD', frequency: 1500, name: '1500 MHz' },
     { band: 12, type: 'FDD', frequency: 700, name: '700 MHz' },
     { band: 13, type: 'FDD', frequency: 700, name: '700 MHz' },
     { band: 14, type: 'FDD', frequency: 700, name: '700 MHz' },
@@ -128,11 +137,13 @@ export class SpectrumPagesComponent implements OnInit {
     { band: 18, type: 'FDD', frequency: 800, name: '800 MHz' },
     { band: 19, type: 'FDD', frequency: 800, name: '800 MHz' },
     { band: 20, type: 'FDD', frequency: 800, name: '800 MHz' },
-    { band: 21, type: 'FDD', frequency: 1500, name: '1500 MHz'},
+    { band: 21, type: 'FDD', frequency: 1500, name: '1500 MHz' },
+    { band: 23, type: 'FDD', frequency: 2000, name: '2000/2180 MHz' },
     { band: 25, type: 'FDD', frequency: 1900, name: '1900 MHz' },
     { band: 26, type: 'FDD', frequency: 850, name: '850 MHz' },
     { band: 28, type: 'FDD', frequency: 700, name: '700 MHz' },
     { band: 29, type: 'SDL', frequency: 700, name: '700 MHz' },
+    { band: 30, type: 'FDD', frequency: 2300, name: '2300 MHz' },
     { band: 31, type: 'FDD', frequency: 450, name: '450 MHz' },
     { band: 32, type: 'SDL', frequency: 1500, name: '1500 MHz' },
     { band: 38, type: 'TDD', frequency: 2600, name: '2600 MHz' },
@@ -145,14 +156,14 @@ export class SpectrumPagesComponent implements OnInit {
     { band: 67, type: 'SDL', frequency: 700, name: '700 MHz' },
     { band: 71, type: 'FDD', frequency: 600, name: '600 MHz' },
     { band: 72, type: 'FDD', frequency: 450, name: '450 MHz' },
-    { band: 75, type: 'SDL', frequency: 1500, name: '1500 MHz'},
+    { band: 75, type: 'SDL', frequency: 1500, name: '1500 MHz' },
     { band: 77, type: 'TDD', frequency: 3700, name: '3.7 GHz' },
     { band: 78, type: 'TDD', frequency: 3500, name: '3.5 GHz' },
     { band: 79, type: 'TDD', frequency: 4700, name: '4.7 GHz' },
     { band: 257, type: 'TDD', frequency: 28000, name: '28 GHz' },
     { band: 258, type: 'TDD', frequency: 26000, name: '26 GHz' },
     { band: 260, type: 'TDD', frequency: 39000, name: '39 GHz' },
-    { band: 261, type: 'TDD', frequency: 28000, name: '28 GHz'}
+    { band: 261, type: 'TDD', frequency: 28000, name: '28 GHz' }
   ]
 
   /** Modal Close Result String */
@@ -176,41 +187,43 @@ export class SpectrumPagesComponent implements OnInit {
     }
   }
 
- /**
- * Get Country Data from CommonService.
- * If not found, return 404
- * @param {string} country Country Name
- * @param {string} [region] Region Name
- */
+  /**
+  * Get Country Data from CommonService.
+  * If not found, return 404
+  * @param {string} country Country Name
+  * @param {string} [region] Region Name
+  */
 
-  doGetCountryData(country: string, region?: string) {
+  doGetCountryData(lng: number, lat: number) {
     this.loaded = false;
-    this.commonService.doGetFrequencyData(country, region).subscribe(data => {
-      this.frequencies = data.sort((a, b) => this.getFrequencyFromBand(a.band) - this.getFrequencyFromBand(b.band));
-      this.loaded = true;
-    }, error => {
+    this.commonService.doGetFrequencyData(lng, lat).then(
+      data => {
+        this.frequencies = data.sort((a, b) => this.getFrequencyFromBand(a.band) - this.getFrequencyFromBand(b.band));
+        this.loaded = true;
+      }
+    ).catch(error => {
       this.error = error
-      console.log(error)
+      console.error(error);
+      console.error(error.message)
       if (error instanceof HttpErrorResponse && error.status == 404) { }
       this.router.navigateByUrl('/404', { replaceUrl: true });
-    }
-    )
+    });
   }
 
-/**
- * Get BandName from Band Number
- * @param {number} band Band Number
-*/
+  /**
+   * Get BandName from Band Number
+   * @param {number} band Band Number
+  */
 
   getBandName(band: number) {
     let bandName = this.band.find((item) => item.band == band)
     return bandName?.name;
   }
 
-/**
- * Get BandType from Band Number
- * @param {number} band Band Number
-*/
+  /**
+   * Get BandType from Band Number
+   * @param {number} band Band Number
+  */
 
   getBandType(band: number) {
     let bandType = this.band.find((item) => item.band == band)
@@ -230,11 +243,11 @@ export class SpectrumPagesComponent implements OnInit {
     return bandFrequency?.frequency
   }
 
-/**
- * Sort Providers
- * @param {Array} data Array of Providers
- * @param {string} bandType BandType
-*/
+  /**
+   * Sort Providers
+   * @param {Array} data Array of Providers
+   * @param {string} bandType BandType
+  */
 
   sortProviders(data: Provider[], bandType: string = "") {
     if (bandType == "SUL") {

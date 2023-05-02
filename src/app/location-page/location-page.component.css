@@ -1,0 +1,23 @@
+.map-container {
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 500;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    border: 0px solid black;
+    height: 50vh;
+}
+
+.leaflet-marker-shadow  {
+    display: none !important;
+}
+.map-frame {
+    height: 100%;
+}
+
+#map {
+    height: 100%;
+}

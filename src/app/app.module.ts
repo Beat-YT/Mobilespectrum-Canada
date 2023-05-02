@@ -13,6 +13,9 @@ import { environment } from '../environments/environment';
 import { NotFoundPageComponent } from './not-found-page/not-found-page.component';
 import { FrequenciesBarComponent } from './components/frequencies-bar.component';
 
+import { GoogleMapsComponent } from './components/google-maps/google-maps.component';
+import { AgmCoreModule } from '@agm/core';
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -20,6 +23,7 @@ import { FrequenciesBarComponent } from './components/frequencies-bar.component'
     SpectrumPagesComponent,
     NotFoundPageComponent,
     FrequenciesBarComponent,
+    GoogleMapsComponent
   ],
   imports: [
     BrowserModule.withServerTransition({ appId: 'serverApp' }),
@@ -27,6 +31,10 @@ import { FrequenciesBarComponent } from './components/frequencies-bar.component'
     NgbModule,
     HttpClientModule,
     FontAwesomeModule,
+    NgbModule,
+    AgmCoreModule.forRoot({
+      apiKey: 'AIzaSyB2DEvP5onyNzw9BfmYXTqgFU0k1e1x1nw' 
+    }),
     ServiceWorkerModule.register('ngsw-worker.js', { enabled: environment.production })
   ],
   providers: [],

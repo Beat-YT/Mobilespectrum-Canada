@@ -1,0 +1,1003 @@
+[
+    {
+        "band": 71,
+        "providers": [
+            {
+                "provider": {
+                    "name": "Rogers",
+                    "longName": "Rogers Wireless",
+                    "homePage": "https://www.rogers.com/mobility",
+                    "backgroundColor": "#e32024",
+                    "textColor": "white"
+                },
+                "ProvidersProvider": {
+                    "name": "Rogers",
+                    "longName": "Rogers Wireless",
+                    "homePage": "https://www.rogers.com/mobility",
+                    "backgroundColor": "#e32024",
+                    "textColor": "white"
+                },
+                "frequency": {
+                    "downLink": {
+                        "start": 617,
+                        "end": 627
+                    },
+                    "upLink": {
+                        "start": 663,
+                        "end": 673
+                    }
+                },
+                "technology": [
+                    "LTE",
+                    "NR"
+                ],
+                "source": [
+                    {
+                        "name": "600 MHz Auction — Final Results",
+                        "url": "https://ised-isde.canada.ca/site/spectrum-management-telecommunications/en/spectrum-allocation/auctions/auction-spectrum-licences-600-mhz-band/600-mhz-auction-final-results#:~:text=Eastern%20Quebec"
+                    }
+                ]
+            },
+            {
+                "provider": {
+                    "name": "Videotron",
+                    "longName": "Vidéotron",
+                    "homePage": "https://videotron.com/en",
+                    "backgroundColor": "#fdd201",
+                    "textColor": "black"
+                },
+                "frequency": {
+                    "downLink": {
+                        "start": 627,
+                        "end": 642
+                    },
+                    "upLink": {
+                        "start": 673,
+                        "end": 688
+                    }
+                },
+                "technology": [
+                    "LTE"
+                ],
+                "source": [
+                    {
+                        "name": "600 MHz Auction — Final Results",
+                        "url": "https://ised-isde.canada.ca/site/spectrum-management-telecommunications/en/spectrum-allocation/auctions/auction-spectrum-licences-600-mhz-band/600-mhz-auction-final-results#:~:text=Eastern%20Quebec"
+                    }
+                ]
+            },
+            {
+                "provider": {
+                    "name": "Telus",
+                    "longName": "Telus Mobility",
+                    "homePage": "https://telus.com/en/mobility",
+                    "backgroundColor": "#4B286D",
+                    "textColor": "white"
+                },
+                "frequency": {
+                    "downLink": {
+                        "start": 642,
+                        "end": 652
+                    },
+                    "upLink": {
+                        "start": 688,
+                        "end": 698
+                    }
+                },
+                "technology": [
+                    "NR"
+                ],
+                "source": [
+                    {
+                        "name": "600 MHz Auction — Final Results",
+                        "url": "https://ised-isde.canada.ca/site/spectrum-management-telecommunications/en/spectrum-allocation/auctions/auction-spectrum-licences-600-mhz-band/600-mhz-auction-final-results#:~:text=Eastern%20Quebec"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "band": 12,
+        "providers": [
+            {
+                "provider": {
+                    "name": "Rogers",
+                    "longName": "Rogers Wireless",
+                    "homePage": "https://www.rogers.com/mobility",
+                    "backgroundColor": "#e32024",
+                    "textColor": "white"
+                },
+                "frequency": {
+                    "upLink": {
+                        "start": 698,
+                        "end": 710
+                    },
+                    "downLink": {
+                        "start": 728,
+                        "end": 740
+                    }
+                },
+                "technology": [
+                    "LTE"
+                ],
+                "source": [
+                    {
+                        "name": "Final Results — 700 MHz Auction (2014)",
+                        "url": "https://ised-isde.canada.ca/site/spectrum-management-telecommunications/en/spectrum-allocation/auctions/700-mhz-2014/final-results-700-mhz-auction-2014#:~:text=Eastern%20Quebec"
+                    }
+                ]
+            },
+            {
+                "provider": {
+                    "name": "Telus",
+                    "longName": "Telus Mobility",
+                    "homePage": "https://telus.com/en/mobility",
+                    "backgroundColor": "#4B286D",
+                    "textColor": "white"
+                },
+                "frequency": {
+                    "upLink": {
+                        "start": 710,
+                        "end": 716
+                    },
+                    "downLink": {
+                        "start": 740,
+                        "end": 746
+                    }
+                },
+                "technology": [
+                    "LTE"
+                ],
+                "source": [
+                    {
+                        "name": "Final Results — 700 MHz Auction (2014)",
+                        "url": "https://ised-isde.canada.ca/site/spectrum-management-telecommunications/en/spectrum-allocation/auctions/700-mhz-2014/final-results-700-mhz-auction-2014#:~:text=Eastern%20Quebec"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "band": 13,
+        "providers": [
+            {
+                "provider": {
+                    "name": "Videotron",
+                    "longName": "Vidéotron",
+                    "homePage": "https://videotron.com/en",
+                    "backgroundColor": "#fdd201",
+                    "textColor": "black"
+                },
+                "frequency": {
+                    "downLink": {
+                        "start": 746,
+                        "end": 751
+                    },
+                    "upLink": {
+                        "start": 777,
+                        "end": 782
+                    }
+                },
+                "technology": [
+                    "LTE"
+                ],
+                "source": [
+                    {
+                        "name": "Final Results — 700 MHz Auction (2014)",
+                        "url": "https://ised-isde.canada.ca/site/spectrum-management-telecommunications/en/spectrum-allocation/auctions/700-mhz-2014/final-results-700-mhz-auction-2014#:~:text=Eastern%20Quebec"
+                    }
+                ]
+            },
+            {
+                "provider": {
+                    "name": "Bell",
+                    "longName": "Bell Mobility",
+                    "homePage": "https://www.bell.ca/Mobility",
+                    "backgroundColor": "#0067a5",
+                    "textColor": "white"
+                },
+                "frequency": {
+                    "downLink": {
+                        "start": 751,
+                        "end": 756
+                    },
+                    "upLink": {
+                        "start": 782,
+                        "end": 787
+                    }
+                },
+                "technology": [
+                    "LTE"
+                ],
+                "source": [
+                    {
+                        "name": "Final Results — 700 MHz Auction (2014)",
+                        "url": "https://ised-isde.canada.ca/site/spectrum-management-telecommunications/en/spectrum-allocation/auctions/700-mhz-2014/final-results-700-mhz-auction-2014#:~:text=Eastern%20Quebec"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "band": 29,
+        "providers": [
+            {
+                "provider": {
+                    "name": "Telus",
+                    "longName": "Telus Mobility",
+                    "homePage": "https://telus.com/en/mobility",
+                    "backgroundColor": "#4B286D",
+                    "textColor": "white"
+                },
+                "frequency": {
+                    "downLink": {
+                        "start": 716,
+                        "end": 728
+                    }
+                },
+                "technology": [
+                    "LTE"
+                ],
+                "source": [
+                    {
+                        "name": "Final Results — 700 MHz Auction (2014)",
+                        "url": "https://ised-isde.canada.ca/site/spectrum-management-telecommunications/en/spectrum-allocation/auctions/700-mhz-2014/final-results-700-mhz-auction-2014#:~:text=Eastern%20Quebec"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "band": 5,
+        "providers": [
+            {
+                "provider": {
+                    "name": "Rogers",
+                    "longName": "Rogers Wireless",
+                    "homePage": "https://www.rogers.com/mobility",
+                    "backgroundColor": "#e32024",
+                    "textColor": "white"
+                },
+                "frequency": {
+                    "downLink": {
+                        "start": 869,
+                        "end": 880
+                    },
+                    "upLink": {
+                        "start": 824,
+                        "end": 835
+                    }
+                },
+                "technology": [
+                    "LTE",
+                    "UMTS"
+                ],
+                "valid": {
+                    "start": "2011-04-01",
+                    "end": "2031-03-31"
+                },
+                "source": [
+                    {
+                        "name": "Spectrum management system, license search",
+                        "url": "https://sms-sgs.ic.gc.ca/licenseSearch/searchSpectrumLicense"
+                    },
+                    {
+                        "name": "A Brief History of Cellular and PCS Licensing",
+                        "url": "https://www.ic.gc.ca/eic/site/smt-gst.nsf/vwapj/briefhistorycellular_pcs-e.pdf/$FILE/briefhistorycellular_pcs-e.pdf"
+                    }
+                ]
+            },
+            {
+                "provider": {
+                    "name": "Bell",
+                    "longName": "Bell Mobility",
+                    "homePage": "https://www.bell.ca/Mobility",
+                    "backgroundColor": "#0067a5",
+                    "textColor": "white"
+                },
+                "frequency": {
+                    "downLink": {
+                        "start": 880,
+                        "end": 890
+                    },
+                    "upLink": {
+                        "start": 835,
+                        "end": 845
+                    }
+                },
+                "technology": [
+                    "LTE",
+                    "UMTS"
+                ],
+                "valid": {
+                    "start": "2011-04-01",
+                    "end": "2031-03-31"
+                },
+                "source": [
+                    {
+                        "name": "Spectrum management system, license search",
+                        "url": "https://sms-sgs.ic.gc.ca/licenseSearch/searchSpectrumLicense"
+                    },
+                    {
+                        "name": "A Brief History of Cellular and PCS Licensing",
+                        "url": "https://www.ic.gc.ca/eic/site/smt-gst.nsf/vwapj/briefhistorycellular_pcs-e.pdf/$FILE/briefhistorycellular_pcs-e.pdf"
+                    }
+                ]
+            },
+            {
+                "provider": {
+                    "name": "Rogers",
+                    "longName": "Rogers Wireless",
+                    "homePage": "https://www.rogers.com/mobility",
+                    "backgroundColor": "#e32024",
+                    "textColor": "white"
+                },
+                "frequency": {
+                    "downLink": {
+                        "start": 890,
+                        "end": 891.5
+                    },
+                    "upLink": {
+                        "start": 845,
+                        "end": 846.5
+                    }
+                },
+                "technology": [
+                    "GSM"
+                ],
+                "valid": {
+                    "start": "2011-04-01",
+                    "end": "2031-03-31"
+                },
+                "source": [
+                    {
+                        "name": "Spectrum management system, license search",
+                        "url": "https://sms-sgs.ic.gc.ca/licenseSearch/searchSpectrumLicense"
+                    },
+                    {
+                        "name": "A Brief History of Cellular and PCS Licensing",
+                        "url": "https://www.ic.gc.ca/eic/site/smt-gst.nsf/vwapj/briefhistorycellular_pcs-e.pdf/$FILE/briefhistorycellular_pcs-e.pdf"
+                    }
+                ]
+            },
+            {
+                "provider": {
+                    "name": "Bell",
+                    "longName": "Bell Mobility",
+                    "homePage": "https://www.bell.ca/Mobility",
+                    "backgroundColor": "#0067a5",
+                    "textColor": "white"
+                },
+                "frequency": {
+                    "downLink": {
+                        "start": 891.5,
+                        "end": 894
+                    },
+                    "upLink": {
+                        "start": 846.5,
+                        "end": 849.0
+                    }
+                },
+                "valid": {
+                    "start": "2011-04-01",
+                    "end": "2031-03-31"
+                },
+                "source": [
+                    {
+                        "name": "Spectrum management system, license search",
+                        "url": "https://sms-sgs.ic.gc.ca/licenseSearch/searchSpectrumLicense"
+                    },
+                    {
+                        "name": "A Brief History of Cellular and PCS Licensing",
+                        "url": "https://www.ic.gc.ca/eic/site/smt-gst.nsf/vwapj/briefhistorycellular_pcs-e.pdf/$FILE/briefhistorycellular_pcs-e.pdf"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "band": 2,
+        "providers": [
+            {
+                "provider": {
+                    "name": "Rogers",
+                    "longName": "Rogers Wireless",
+                    "homePage": "https://www.rogers.com/mobility",
+                    "backgroundColor": "#e32024",
+                    "textColor": "white"
+                },
+                "frequency": {
+                    "downLink": {
+                        "start": 1930,
+                        "end": 1945
+                    },
+                    "upLink": {
+                        "start": 1850,
+                        "end": 1865
+                    }
+                },
+                "technology": [
+                    "LTE"
+                ],
+                "source": [
+                    {
+                        "name": "Spectrum management system, license search",
+                        "url": "https://sms-sgs.ic.gc.ca/licenseSearch/searchSpectrumLicense"
+                    },
+                    {
+                        "name": "A Brief History of Cellular and PCS Licensing",
+                        "url": "https://www.ic.gc.ca/eic/site/smt-gst.nsf/vwapj/briefhistorycellular_pcs-e.pdf/$FILE/briefhistorycellular_pcs-e.pdf"
+                    }
+                ]
+            },
+            {
+                "provider": {
+                    "name": "Bell",
+                    "longName": "Bell Mobility",
+                    "homePage": "https://www.bell.ca/Mobility",
+                    "backgroundColor": "#0067a5",
+                    "textColor": "white"
+                },
+                "frequency": {
+                    "downLink": {
+                        "start": 1945,
+                        "end": 1950
+                    },
+                    "upLink": {
+                        "start": 1865,
+                        "end": 1870
+                    }
+                },
+                "technology": [
+                    "LTE"
+                ],
+                "source": [
+                    {
+                        "name": "Spectrum management system, license search",
+                        "url": "https://sms-sgs.ic.gc.ca/licenseSearch/searchSpectrumLicense"
+                    },
+                    {
+                        "name": "A Brief History of Cellular and PCS Licensing",
+                        "url": "https://www.ic.gc.ca/eic/site/smt-gst.nsf/vwapj/briefhistorycellular_pcs-e.pdf/$FILE/briefhistorycellular_pcs-e.pdf"
+                    }
+                ]
+            },
+            {
+                "provider": {
+                    "name": "Telus",
+                    "longName": "Telus Mobility",
+                    "homePage": "https://telus.com/en/mobility",
+                    "backgroundColor": "#4B286D",
+                    "textColor": "white"
+                },
+                "frequency": {
+                    "downLink": {
+                        "start": 1950,
+                        "end": 1965
+                    },
+                    "upLink": {
+                        "start": 1870,
+                        "end": 1885
+                    }
+                },
+                "technology": [
+                    "LTE"
+                ],
+                "source": [
+                    {
+                        "name": "Spectrum management system, license search",
+                        "url": "https://sms-sgs.ic.gc.ca/licenseSearch/searchSpectrumLicense"
+                    },
+                    {
+                        "name": "A Brief History of Cellular and PCS Licensing",
+                        "url": "https://www.ic.gc.ca/eic/site/smt-gst.nsf/vwapj/briefhistorycellular_pcs-e.pdf/$FILE/briefhistorycellular_pcs-e.pdf"
+                    }
+                ]
+            },
+            {
+                "provider": {
+                    "name": "Rogers",
+                    "longName": "Rogers Wireless",
+                    "homePage": "https://www.rogers.com/mobility",
+                    "backgroundColor": "#e32024",
+                    "textColor": "white"
+                },
+                "frequency": {
+                    "downLink": {
+                        "start": 1965,
+                        "end": 1980
+                    },
+                    "upLink": {
+                        "start": 1885,
+                        "end": 1900
+                    }
+                },
+                "technology": [
+                    "NR"
+                ],
+                "source": [
+                    {
+                        "name": "600 MHz Auction — Final Results",
+                        "url": "https://ised-isde.canada.ca/site/spectrum-management-telecommunications/en/spectrum-allocation/auctions/auction-spectrum-licences-600-mhz-band/600-mhz-auction-final-results#:~:text=Eastern%20Quebec"
+                    },
+                    {
+                        "name": "A Brief History of Cellular and PCS Licensing",
+                        "url": "https://www.ic.gc.ca/eic/site/smt-gst.nsf/vwapj/briefhistorycellular_pcs-e.pdf/$FILE/briefhistorycellular_pcs-e.pdf"
+                    }
+                ]
+            },
+            {
+                "provider": {
+                    "name": "Bell",
+                    "longName": "Bell Mobility",
+                    "homePage": "https://www.bell.ca/Mobility",
+                    "backgroundColor": "#0067a5",
+                    "textColor": "white"
+                },
+                "frequency": {
+                    "downLink": {
+                        "start": 1980,
+                        "end": 1990
+                    },
+                    "upLink": {
+                        "start": 1900,
+                        "end": 1910
+                    }
+                },
+                "source": [
+                    {
+                        "name": "Spectrum management system, license search",
+                        "url": "https://sms-sgs.ic.gc.ca/licenseSearch/searchSpectrumLicense"
+                    },
+                    {
+                        "name": "A Brief History of Cellular and PCS Licensing",
+                        "url": "https://www.ic.gc.ca/eic/site/smt-gst.nsf/vwapj/briefhistorycellular_pcs-e.pdf/$FILE/briefhistorycellular_pcs-e.pdf"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "band": 4,
+        "providers": [
+            {
+                "provider": {
+                    "name": "Rogers",
+                    "longName": "Rogers Wireless",
+                    "homePage": "https://www.rogers.com/mobility",
+                    "backgroundColor": "#e32024",
+                    "textColor": "white"
+                },
+                "frequency": {
+                    "upLink": {
+                        "start": 1710,
+                        "end": 1720
+                    },
+                    "downLink": {
+                        "start": 2110,
+                        "end": 2120
+                    }
+                },
+                "technology": [
+                    "LTE"
+                ],
+                "source": [
+                    {
+                        "name": "Spectrum management system, license search",
+                        "url": "https://sms-sgs.ic.gc.ca/licenseSearch/searchSpectrumLicense"
+                    }
+                ]
+            },
+            {
+                "provider": {
+                    "name": "Videotron",
+                    "longName": "Vidéotron",
+                    "homePage": "https://videotron.com/en",
+                    "backgroundColor": "#fdd201",
+                    "textColor": "black"
+                },
+                "frequency": {
+                    "upLink": {
+                        "start": 1720,
+                        "end": 1740
+                    },
+                    "downLink": {
+                        "start": 2120,
+                        "end": 2140
+                    }
+                },
+                "technology": [
+                    "LTE", "UMTS"
+                ],
+                "source": [
+                    {
+                        "name": "Spectrum management system, license search",
+                        "url": "https://sms-sgs.ic.gc.ca/licenseSearch/searchSpectrumLicense"
+                    }
+                ]
+            },
+            {
+                "provider": {
+                    "name": "Bell",
+                    "longName": "Bell Mobility",
+                    "homePage": "https://www.bell.ca/Mobility",
+                    "backgroundColor": "#0067a5",
+                    "textColor": "white"
+                },
+                "frequency": {
+                    "upLink": {
+                        "start": 1740,
+                        "end": 1745
+                    },
+                    "downLink": {
+                        "start": 2140,
+                        "end": 2145
+                    }
+                },
+                "technology": [
+                    "LTE"
+                ],
+                "source": [
+                    {
+                        "name": "Spectrum management system, license search",
+                        "url": "https://sms-sgs.ic.gc.ca/licenseSearch/searchSpectrumLicense"
+                    }
+                ]
+            },
+            {
+                "provider": {
+                    "name": "Telus",
+                    "longName": "Telus Mobility",
+                    "homePage": "https://telus.com/en/mobility",
+                    "backgroundColor": "#4B286D",
+                    "textColor": "white"
+                },
+                "frequency": {
+                    "upLink": {
+                        "start": 1745,
+                        "end": 1755
+                    },
+                    "downLink": {
+                        "start": 2145,
+                        "end": 2155
+                    }
+                },
+                "technology": [
+                    "LTE"
+                ],
+                "source": [
+                    {
+                        "name": "Spectrum management system, license search",
+                        "url": "https://sms-sgs.ic.gc.ca/licenseSearch/searchSpectrumLicense"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "band": 66,
+        "providers": [
+            {
+                "provider": {
+                    "name": "Videotron",
+                    "longName": "Vidéotron",
+                    "homePage": "https://videotron.com/en",
+                    "backgroundColor": "#fdd201",
+                    "textColor": "black"
+                },
+                "frequency": {
+                    "upLink": {
+                        "start": 1755,
+                        "end": 1770
+                    },
+                    "downLink": {
+                        "start": 2155,
+                        "end": 2170
+                    }
+                },
+                "technology": [
+                    "LTE"
+                ],
+                "source": [
+                    {
+                        "name": "AWS-3 Auction — Final Results and Prices by Service Area",
+                        "url": "https://www.ic.gc.ca/eic/site/smt-gst.nsF/eng/sf11048.html"
+                    }
+                ]
+            },
+            {
+                "provider": {
+                    "name": "Telus",
+                    "longName": "Telus Mobility",
+                    "homePage": "https://telus.com/en/mobility",
+                    "backgroundColor": "#4B286D",
+                    "textColor": "white"
+                },
+                "frequency": {
+                    "upLink": {
+                        "start": 1770,
+                        "end": 1780
+                    },
+                    "downLink": {
+                        "start": 2170,
+                        "end": 2180
+                    }
+                },
+                "technology": [
+                    "NR"
+                ],
+                "source": [
+                    {
+                        "name": "AWS-3 Auction — Final Results and Prices by Service Area",
+                        "url": "https://www.ic.gc.ca/eic/site/smt-gst.nsF/eng/sf11048.html"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "band": 7,
+        "providers": [
+            {
+                "provider": {
+                    "name": "Bell",
+                    "longName": "Bell Mobility",
+                    "homePage": "https://www.bell.ca/Mobility",
+                    "backgroundColor": "#0067a5",
+                    "textColor": "white"
+                },
+                "frequency": {
+                    "upLink": {
+                        "start": 2500,
+                        "end": 2520
+                    },
+                    "downLink": {
+                        "start": 2620,
+                        "end": 2640
+                    }
+                },
+                "technology": [
+                    "LTE"
+                ],
+                "source": [
+                    {
+                        "name": "2500 MHz Auction — Final Results",
+                        "url": "https://ised-isde.canada.ca/site/spectrum-management-telecommunications/en/spectrum-allocation/auctions/2500-2690-mhz-2015/2500-mhz-auction-final-results"
+                    }
+                ]
+            },
+            {
+                "provider": {
+                    "name": "Rogers",
+                    "longName": "Rogers Wireless",
+                    "homePage": "https://www.rogers.com/mobility",
+                    "backgroundColor": "#e32024",
+                    "textColor": "white"
+                },
+                "frequency": {
+                    "upLink": {
+                        "start": 2520,
+                        "end": 2540
+                    },
+                    "downLink": {
+                        "start": 2640,
+                        "end": 2660
+                    }
+                },
+                "technology": [
+                    "LTE"
+                ],
+                "source": [
+                    {
+                        "name": "2500 MHz Auction — Final Results",
+                        "url": "https://ised-isde.canada.ca/site/spectrum-management-telecommunications/en/spectrum-allocation/auctions/2500-2690-mhz-2015/2500-mhz-auction-final-results"
+                    }
+                ]
+            },
+            {
+                "provider": {
+                    "name": "Videotron",
+                    "longName": "Vidéotron",
+                    "homePage": "https://videotron.com/en",
+                    "backgroundColor": "#fdd201",
+                    "textColor": "black"
+                },
+                "frequency": {
+                    "upLink": {
+                        "start": 2540,
+                        "end": 2550
+                    },
+                    "downLink": {
+                        "start": 2660,
+                        "end": 2670
+                    }
+                },
+                "technology": [
+                    "LTE"
+                ],
+                "source": [
+                    {
+                        "name": "2500 MHz Auction — Final Results",
+                        "url": "https://ised-isde.canada.ca/site/spectrum-management-telecommunications/en/spectrum-allocation/auctions/2500-2690-mhz-2015/2500-mhz-auction-final-results"
+                    }
+                ]
+            },
+            {
+                "provider": {
+                    "name": "Telus",
+                    "longName": "Telus Mobility",
+                    "homePage": "https://telus.com/en/mobility",
+                    "backgroundColor": "#4B286D",
+                    "textColor": "white"
+                },
+                "frequency": {
+                    "upLink": {
+                        "start": 2550,
+                        "end": 2570
+                    },
+                    "downLink": {
+                        "start": 2670,
+                        "end": 2690
+                    }
+                },
+                "technology": [
+                    "LTE"
+                ],
+                "source": [
+                    {
+                        "name": "2500 MHz Auction — Final Results",
+                        "url": "https://ised-isde.canada.ca/site/spectrum-management-telecommunications/en/spectrum-allocation/auctions/2500-2690-mhz-2015/2500-mhz-auction-final-results"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "band": 38,
+        "providers": [
+            {
+                "provider": {
+                    "name": "Bell",
+                    "longName": "Bell Mobility",
+                    "homePage": "https://www.bell.ca/Mobility",
+                    "backgroundColor": "#0067a5",
+                    "textColor": "white"
+                },
+                "frequency": {
+                    "downLink": {
+                        "start": 2575,
+                        "end": 2595
+                    }
+                },
+                "source": [
+                    {
+                        "name": "2500 MHz Auction — Final Results",
+                        "url": "https://ised-isde.canada.ca/site/spectrum-management-telecommunications/en/spectrum-allocation/auctions/2500-2690-mhz-2015/2500-mhz-auction-final-results"
+                    }
+                ]
+            },
+            {
+                "provider": {
+                    "name": "Rogers",
+                    "longName": "Rogers Wireless",
+                    "homePage": "https://www.rogers.com/mobility",
+                    "backgroundColor": "#e32024",
+                    "textColor": "white"
+                },
+                "frequency": {
+                    "downLink": {
+                        "start": 2595,
+                        "end": 2615
+                    }
+                },
+                "source": [
+                    {
+                        "name": "2500 MHz Auction — Final Results",
+                        "url": "https://ised-isde.canada.ca/site/spectrum-management-telecommunications/en/spectrum-allocation/auctions/2500-2690-mhz-2015/2500-mhz-auction-final-results"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "band": 78,
+        "providers": [
+            {
+                "provider": {
+                    "name": "Videotron",
+                    "longName": "Vidéotron",
+                    "homePage": "https://videotron.com/en",
+                    "backgroundColor": "#fdd201",
+                    "textColor": "black"
+                },
+                "frequency": {
+                    "downLink": {
+                        "start": 3450,
+                        "end": 3500
+                    }
+                },
+                "technology": [
+                    "NR"
+                ],
+                "source": [
+                    {
+                        "name": "3500 MHz Auction — Final Results",
+                        "url": "https://ised-isde.canada.ca/site/spectrum-management-telecommunications/en/spectrum-allocation/auctions/auction-spectrum-licences-3500-mhz-band/3500-mhz-auction-final-results"
+                    }
+                ]
+            },
+            {
+                "provider": {
+                    "name": "Bell",
+                    "longName": "Bell Mobility",
+                    "homePage": "https://www.bell.ca/Mobility",
+                    "backgroundColor": "#0067a5",
+                    "textColor": "white"
+                },
+                "frequency": {
+                    "downLink": {
+                        "start": 3500,
+                        "end": 3540
+                    }
+                },
+                "technology": [
+                    "NR"
+                ],
+                "source": [
+                    {
+                        "name": "3500 MHz Auction — Final Results",
+                        "url": "https://ised-isde.canada.ca/site/spectrum-management-telecommunications/en/spectrum-allocation/auctions/auction-spectrum-licences-3500-mhz-band/3500-mhz-auction-final-results"
+                    }
+                ]
+            },
+            {
+                "provider": {
+                    "name": "Rogers",
+                    "longName": "Rogers Wireless",
+                    "homePage": "https://www.rogers.com/mobility",
+                    "backgroundColor": "#e32024",
+                    "textColor": "white"
+                },
+                "frequency": {
+                    "downLink": {
+                        "start": 3540,
+                        "end": 3610
+                    }
+                },
+                "technology": [
+                    "NR"
+                ],
+                "source": [
+                    {
+                        "name": "3500 MHz Auction — Final Results",
+                        "url": "https://ised-isde.canada.ca/site/spectrum-management-telecommunications/en/spectrum-allocation/auctions/auction-spectrum-licences-3500-mhz-band/3500-mhz-auction-final-results"
+                    }
+                ]
+            },
+            {
+                "provider": {
+                    "name": "Telus",
+                    "longName": "Telus Mobility",
+                    "homePage": "https://telus.com/en/mobility",
+                    "backgroundColor": "#4B286D",
+                    "textColor": "white"
+                },
+                "frequency": {
+                    "downLink": {
+                        "start": 3610,
+                        "end": 3650
+                    }
+                },
+                "technology": [
+                    "NR"
+                ],
+                "source": [
+                    {
+                        "name": "3500 MHz Auction — Final Results",
+                        "url": "https://ised-isde.canada.ca/site/spectrum-management-telecommunications/en/spectrum-allocation/auctions/auction-spectrum-licences-3500-mhz-band/3500-mhz-auction-final-results"
+                    }
+                ]
+            }
+        ]
+    }
+]

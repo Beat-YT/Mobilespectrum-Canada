@@ -1,0 +1,3886 @@
+{
+  "tier1": [
+    {
+      "serviceCode": "1-001",
+      "areaName": "Canada"
+    }
+  ],
+  "tier2": [
+    {
+      "serviceCode": "2-001",
+      "areaName": "Newfoundland & Labrador"
+    },
+    {
+      "serviceCode": "2-002",
+      "areaName": "Nova Scotia & Prince Edward Island"
+    },
+    {
+      "serviceCode": "2-003",
+      "areaName": "New Brunswick"
+    },
+    {
+      "serviceCode": "2-004",
+      "areaName": "Eastern Quebec"
+    },
+    {
+      "serviceCode": "2-005",
+      "areaName": "Southern Quebec"
+    },
+    {
+      "serviceCode": "2-006",
+      "areaName": "Eastern Ontario & Outaouais"
+    },
+    {
+      "serviceCode": "2-007",
+      "areaName": "Northern Quebec"
+    },
+    {
+      "serviceCode": "2-008",
+      "areaName": "Southern Ontario"
+    },
+    {
+      "serviceCode": "2-009",
+      "areaName": "Northern Ontario"
+    },
+    {
+      "serviceCode": "2-010",
+      "areaName": "Manitoba"
+    },
+    {
+      "serviceCode": "2-011",
+      "areaName": "Saskatchewan"
+    },
+    {
+      "serviceCode": "2-012",
+      "areaName": "Alberta"
+    },
+    {
+      "serviceCode": "2-013",
+      "areaName": "British Columbia"
+    },
+    {
+      "serviceCode": "2-014",
+      "areaName": "Yukon, North West Territories & Nunavut"
+    },
+    {
+      "serviceCode": "2-017",
+      "areaName": "Province of Saskatchewan"
+    },
+    {
+      "serviceCode": "2-018",
+      "areaName": "Province of Alberta"
+    }
+  ],
+  "tier3": [
+    {
+      "serviceCode": "3-001",
+      "areaName": "Newfoundland & Labrador"
+    },
+    {
+      "serviceCode": "3-002",
+      "areaName": "Prince Edward Island"
+    },
+    {
+      "serviceCode": "3-003",
+      "areaName": "Mainland Nova Scotia"
+    },
+    {
+      "serviceCode": "3-004",
+      "areaName": "Cape Breton"
+    },
+    {
+      "serviceCode": "3-005",
+      "areaName": "Southern New Brunswick"
+    },
+    {
+      "serviceCode": "3-006",
+      "areaName": "Western New Brunswick"
+    },
+    {
+      "serviceCode": "3-007",
+      "areaName": "Eastern New Brunswick"
+    },
+    {
+      "serviceCode": "3-008",
+      "areaName": "Bas du fleuve/Gaspésie"
+    },
+    {
+      "serviceCode": "3-009",
+      "areaName": "Québec"
+    },
+    {
+      "serviceCode": "3-010",
+      "areaName": "Chicoutimi-Jonquière"
+    },
+    {
+      "serviceCode": "3-011",
+      "areaName": "Eastern Townships"
+    },
+    {
+      "serviceCode": "3-012",
+      "areaName": "Trois-Rivières"
+    },
+    {
+      "serviceCode": "3-013",
+      "areaName": "Montreal"
+    },
+    {
+      "serviceCode": "3-014",
+      "areaName": "Upper Outaouais"
+    },
+    {
+      "serviceCode": "3-015",
+      "areaName": "Ottawa"
+    },
+    {
+      "serviceCode": "3-016",
+      "areaName": "Pembroke"
+    },
+    {
+      "serviceCode": "3-017",
+      "areaName": "Abitibi"
+    },
+    {
+      "serviceCode": "3-018",
+      "areaName": "Cornwall"
+    },
+    {
+      "serviceCode": "3-019",
+      "areaName": "Brockville"
+    },
+    {
+      "serviceCode": "3-020",
+      "areaName": "Kingston"
+    },
+    {
+      "serviceCode": "3-021",
+      "areaName": "Belleville"
+    },
+    {
+      "serviceCode": "3-022",
+      "areaName": "Cobourg"
+    },
+    {
+      "serviceCode": "3-023",
+      "areaName": "Peterborough"
+    },
+    {
+      "serviceCode": "3-024",
+      "areaName": "Huntsville"
+    },
+    {
+      "serviceCode": "3-025",
+      "areaName": "Toronto"
+    },
+    {
+      "serviceCode": "3-026",
+      "areaName": "Barrie"
+    },
+    {
+      "serviceCode": "3-027",
+      "areaName": "Guelph/Kitchener"
+    },
+    {
+      "serviceCode": "3-028",
+      "areaName": "Listowel/Goderich/Stratford"
+    },
+    {
+      "serviceCode": "3-029",
+      "areaName": "Niagara-St. Catharines"
+    },
+    {
+      "serviceCode": "3-030",
+      "areaName": "London/Woodstock/St. Thomas"
+    },
+    {
+      "serviceCode": "3-031",
+      "areaName": "Chatham"
+    },
+    {
+      "serviceCode": "3-032",
+      "areaName": "Windsor/Leamington"
+    },
+    {
+      "serviceCode": "3-033",
+      "areaName": "Strathroy"
+    },
+    {
+      "serviceCode": "3-034",
+      "areaName": "North Bay"
+    },
+    {
+      "serviceCode": "3-035",
+      "areaName": "Sault Ste. Marie"
+    },
+    {
+      "serviceCode": "3-036",
+      "areaName": "Sudbury"
+    },
+    {
+      "serviceCode": "3-037",
+      "areaName": "Kirkland Lake"
+    },
+    {
+      "serviceCode": "3-038",
+      "areaName": "Thunder Bay"
+    },
+    {
+      "serviceCode": "3-039",
+      "areaName": "Winnipeg"
+    },
+    {
+      "serviceCode": "3-040",
+      "areaName": "Brandon"
+    },
+    {
+      "serviceCode": "3-041",
+      "areaName": "Regina"
+    },
+    {
+      "serviceCode": "3-042",
+      "areaName": "Moose Jaw"
+    },
+    {
+      "serviceCode": "3-043",
+      "areaName": "Saskatoon"
+    },
+    {
+      "serviceCode": "3-044",
+      "areaName": "Edmonton"
+    },
+    {
+      "serviceCode": "3-045",
+      "areaName": "Medicine Hat/Brooks"
+    },
+    {
+      "serviceCode": "3-046",
+      "areaName": "Lethbridge"
+    },
+    {
+      "serviceCode": "3-047",
+      "areaName": "Calgary"
+    },
+    {
+      "serviceCode": "3-048",
+      "areaName": "Red Deer"
+    },
+    {
+      "serviceCode": "3-049",
+      "areaName": "Grande Prairie"
+    },
+    {
+      "serviceCode": "3-050",
+      "areaName": "Kootenays"
+    },
+    {
+      "serviceCode": "3-051",
+      "areaName": "Okanagan/Columbia"
+    },
+    {
+      "serviceCode": "3-052",
+      "areaName": "Vancouver"
+    },
+    {
+      "serviceCode": "3-053",
+      "areaName": "Victoria"
+    },
+    {
+      "serviceCode": "3-054",
+      "areaName": "Nanaimo"
+    },
+    {
+      "serviceCode": "3-055",
+      "areaName": "Courtenay"
+    },
+    {
+      "serviceCode": "3-056",
+      "areaName": "Thompson/Cariboo"
+    },
+    {
+      "serviceCode": "3-057",
+      "areaName": "Prince George"
+    },
+    {
+      "serviceCode": "3-058",
+      "areaName": "Dawson Creek"
+    },
+    {
+      "serviceCode": "3-059",
+      "areaName": "Yukon, North West Territories & Nunavut"
+    }
+  ],
+  "tier4": [
+    {
+      "serviceCode": "4-001",
+      "areaName": "St. John's"
+    },
+    {
+      "serviceCode": "4-002",
+      "areaName": "Placentia"
+    },
+    {
+      "serviceCode": "4-003",
+      "areaName": "Gander/Grand Falls/Windsor"
+    },
+    {
+      "serviceCode": "4-004",
+      "areaName": "Corner Brook/Stephenville"
+    },
+    {
+      "serviceCode": "4-005",
+      "areaName": "Labrador"
+    },
+    {
+      "serviceCode": "4-006",
+      "areaName": "Charlottetown"
+    },
+    {
+      "serviceCode": "4-007",
+      "areaName": "Summerside"
+    },
+    {
+      "serviceCode": "4-008",
+      "areaName": "Yarmouth"
+    },
+    {
+      "serviceCode": "4-009",
+      "areaName": "Bridgewater/Kentville"
+    },
+    {
+      "serviceCode": "4-010",
+      "areaName": "Halifax"
+    },
+    {
+      "serviceCode": "4-011",
+      "areaName": "Truro"
+    },
+    {
+      "serviceCode": "4-012",
+      "areaName": "Amherst"
+    },
+    {
+      "serviceCode": "4-013",
+      "areaName": "Antigonish/New Glasgow"
+    },
+    {
+      "serviceCode": "4-014",
+      "areaName": "Sydney"
+    },
+    {
+      "serviceCode": "4-015",
+      "areaName": "Saint John"
+    },
+    {
+      "serviceCode": "4-016",
+      "areaName": "St. Stephen"
+    },
+    {
+      "serviceCode": "4-017",
+      "areaName": "Fredericton"
+    },
+    {
+      "serviceCode": "4-018",
+      "areaName": "Moncton"
+    },
+    {
+      "serviceCode": "4-019",
+      "areaName": "Miramichi/Bathurst"
+    },
+    {
+      "serviceCode": "4-020",
+      "areaName": "Grand Falls"
+    },
+    {
+      "serviceCode": "4-021",
+      "areaName": "Edmundston"
+    },
+    {
+      "serviceCode": "4-022",
+      "areaName": "Campbellton"
+    },
+    {
+      "serviceCode": "4-023",
+      "areaName": "Matane"
+    },
+    {
+      "serviceCode": "4-024",
+      "areaName": "Mont-Joli"
+    },
+    {
+      "serviceCode": "4-025",
+      "areaName": "Rimouski"
+    },
+    {
+      "serviceCode": "4-026",
+      "areaName": "Rivière-du-Loup"
+    },
+    {
+      "serviceCode": "4-027",
+      "areaName": "La Malbaie"
+    },
+    {
+      "serviceCode": "4-028",
+      "areaName": "Chicoutimi-Jonquière"
+    },
+    {
+      "serviceCode": "4-029",
+      "areaName": "Montmagny"
+    },
+    {
+      "serviceCode": "4-030",
+      "areaName": "Québec"
+    },
+    {
+      "serviceCode": "4-031",
+      "areaName": "Sainte-Marie"
+    },
+    {
+      "serviceCode": "4-032",
+      "areaName": "Saint-Georges"
+    },
+    {
+      "serviceCode": "4-033",
+      "areaName": "Lac Megantic"
+    },
+    {
+      "serviceCode": "4-034",
+      "areaName": "Thetford Mines"
+    },
+    {
+      "serviceCode": "4-035",
+      "areaName": "Plessisville"
+    },
+    {
+      "serviceCode": "4-036",
+      "areaName": "La Tuque"
+    },
+    {
+      "serviceCode": "4-037",
+      "areaName": "Trois-Rivières"
+    },
+    {
+      "serviceCode": "4-038",
+      "areaName": "Louiseville"
+    },
+    {
+      "serviceCode": "4-039",
+      "areaName": "Asbestos"
+    },
+    {
+      "serviceCode": "4-040",
+      "areaName": "Victoriaville"
+    },
+    {
+      "serviceCode": "4-041",
+      "areaName": "Coaticook"
+    },
+    {
+      "serviceCode": "4-042",
+      "areaName": "Sherbrooke"
+    },
+    {
+      "serviceCode": "4-043",
+      "areaName": "Windsor"
+    },
+    {
+      "serviceCode": "4-044",
+      "areaName": "Drummondville"
+    },
+    {
+      "serviceCode": "4-045",
+      "areaName": "Cowansville"
+    },
+    {
+      "serviceCode": "4-046",
+      "areaName": "Farnham"
+    },
+    {
+      "serviceCode": "4-047",
+      "areaName": "Granby"
+    },
+    {
+      "serviceCode": "4-048",
+      "areaName": "St-Hyacinthe"
+    },
+    {
+      "serviceCode": "4-049",
+      "areaName": "Sorel"
+    },
+    {
+      "serviceCode": "4-050",
+      "areaName": "Joliette"
+    },
+    {
+      "serviceCode": "4-051",
+      "areaName": "Montreal"
+    },
+    {
+      "serviceCode": "4-052",
+      "areaName": "Sainte-Agathe-des-Monts"
+    },
+    {
+      "serviceCode": "4-053",
+      "areaName": "Hawkesbury"
+    },
+    {
+      "serviceCode": "4-054",
+      "areaName": "Mont-Laurier/Maniwaki"
+    },
+    {
+      "serviceCode": "4-055",
+      "areaName": "Ottawa"
+    },
+    {
+      "serviceCode": "4-056",
+      "areaName": "Pembroke"
+    },
+    {
+      "serviceCode": "4-057",
+      "areaName": "Arnprior/Renfrew"
+    },
+    {
+      "serviceCode": "4-058",
+      "areaName": "Rouyn-Noranda"
+    },
+    {
+      "serviceCode": "4-059",
+      "areaName": "Notre-Dame-du-Nord"
+    },
+    {
+      "serviceCode": "4-060",
+      "areaName": "La Sarre"
+    },
+    {
+      "serviceCode": "4-061",
+      "areaName": "Amos"
+    },
+    {
+      "serviceCode": "4-062",
+      "areaName": "Val D'Or"
+    },
+    {
+      "serviceCode": "4-063",
+      "areaName": "Roberval/Saint-Felicien"
+    },
+    {
+      "serviceCode": "4-064",
+      "areaName": "Baie-Comeau"
+    },
+    {
+      "serviceCode": "4-065",
+      "areaName": "Port-Cartier/Sept-Îles"
+    },
+    {
+      "serviceCode": "4-066",
+      "areaName": "Chibougamau"
+    },
+    {
+      "serviceCode": "4-067",
+      "areaName": "Cornwall"
+    },
+    {
+      "serviceCode": "4-068",
+      "areaName": "Brockville"
+    },
+    {
+      "serviceCode": "4-069",
+      "areaName": "Gananoque"
+    },
+    {
+      "serviceCode": "4-070",
+      "areaName": "Kingston"
+    },
+    {
+      "serviceCode": "4-071",
+      "areaName": "Napanee"
+    },
+    {
+      "serviceCode": "4-072",
+      "areaName": "Belleville"
+    },
+    {
+      "serviceCode": "4-073",
+      "areaName": "Cobourg"
+    },
+    {
+      "serviceCode": "4-074",
+      "areaName": "Peterborough"
+    },
+    {
+      "serviceCode": "4-075",
+      "areaName": "Lindsay"
+    },
+    {
+      "serviceCode": "4-076",
+      "areaName": "Minden"
+    },
+    {
+      "serviceCode": "4-077",
+      "areaName": "Toronto"
+    },
+    {
+      "serviceCode": "4-078",
+      "areaName": "Alliston"
+    },
+    {
+      "serviceCode": "4-079",
+      "areaName": "Guelph/Kitchener"
+    },
+    {
+      "serviceCode": "4-080",
+      "areaName": "Fergus"
+    },
+    {
+      "serviceCode": "4-081",
+      "areaName": "Kincardine"
+    },
+    {
+      "serviceCode": "4-082",
+      "areaName": "Listowel/Goderich"
+    },
+    {
+      "serviceCode": "4-083",
+      "areaName": "Fort Erie"
+    },
+    {
+      "serviceCode": "4-084",
+      "areaName": "Niagara/St. Catharines"
+    },
+    {
+      "serviceCode": "4-085",
+      "areaName": "Haldimand/Dunnville"
+    },
+    {
+      "serviceCode": "4-086",
+      "areaName": "London/Woodstock/St. Thomas"
+    },
+    {
+      "serviceCode": "4-087",
+      "areaName": "Brantford"
+    },
+    {
+      "serviceCode": "4-088",
+      "areaName": "Stratford"
+    },
+    {
+      "serviceCode": "4-089",
+      "areaName": "Chatham"
+    },
+    {
+      "serviceCode": "4-090",
+      "areaName": "Windsor/Leamington"
+    },
+    {
+      "serviceCode": "4-091",
+      "areaName": "Wallaceburg"
+    },
+    {
+      "serviceCode": "4-092",
+      "areaName": "Sarnia"
+    },
+    {
+      "serviceCode": "4-093",
+      "areaName": "Strathroy"
+    },
+    {
+      "serviceCode": "4-094",
+      "areaName": "Barrie"
+    },
+    {
+      "serviceCode": "4-095",
+      "areaName": "Midland"
+    },
+    {
+      "serviceCode": "4-096",
+      "areaName": "Gravenhurst/Bracebridge"
+    },
+    {
+      "serviceCode": "4-097",
+      "areaName": "North Bay"
+    },
+    {
+      "serviceCode": "4-098",
+      "areaName": "Parry Sound"
+    },
+    {
+      "serviceCode": "4-099",
+      "areaName": "Elliot Lake"
+    },
+    {
+      "serviceCode": "4-100",
+      "areaName": "Sudbury"
+    },
+    {
+      "serviceCode": "4-101",
+      "areaName": "Kirkland Lake"
+    },
+    {
+      "serviceCode": "4-102",
+      "areaName": "Timmins"
+    },
+    {
+      "serviceCode": "4-103",
+      "areaName": "Kapuskasing"
+    },
+    {
+      "serviceCode": "4-104",
+      "areaName": "Kenora/Sioux Lookout"
+    },
+    {
+      "serviceCode": "4-105",
+      "areaName": "Iron Bridge"
+    },
+    {
+      "serviceCode": "4-106",
+      "areaName": "Sault Ste. Marie"
+    },
+    {
+      "serviceCode": "4-107",
+      "areaName": "Marathon"
+    },
+    {
+      "serviceCode": "4-108",
+      "areaName": "Thunder Bay"
+    },
+    {
+      "serviceCode": "4-109",
+      "areaName": "Fort Frances"
+    },
+    {
+      "serviceCode": "4-110",
+      "areaName": "Steinbach"
+    },
+    {
+      "serviceCode": "4-111",
+      "areaName": "Winnipeg"
+    },
+    {
+      "serviceCode": "4-112",
+      "areaName": "Lac du Bonnet"
+    },
+    {
+      "serviceCode": "4-113",
+      "areaName": "Morden/Winkler"
+    },
+    {
+      "serviceCode": "4-114",
+      "areaName": "Brandon"
+    },
+    {
+      "serviceCode": "4-115",
+      "areaName": "Portage la Prairie"
+    },
+    {
+      "serviceCode": "4-116",
+      "areaName": "Dauphin"
+    },
+    {
+      "serviceCode": "4-117",
+      "areaName": "Creighton/Flin Flon"
+    },
+    {
+      "serviceCode": "4-118",
+      "areaName": "Thompson"
+    },
+    {
+      "serviceCode": "4-119",
+      "areaName": "Estevan"
+    },
+    {
+      "serviceCode": "4-120",
+      "areaName": "Weyburn"
+    },
+    {
+      "serviceCode": "4-121",
+      "areaName": "Moose Jaw"
+    },
+    {
+      "serviceCode": "4-122",
+      "areaName": "Swift Current"
+    },
+    {
+      "serviceCode": "4-123",
+      "areaName": "Yorkton"
+    },
+    {
+      "serviceCode": "4-124",
+      "areaName": "Regina"
+    },
+    {
+      "serviceCode": "4-125",
+      "areaName": "Saskatoon"
+    },
+    {
+      "serviceCode": "4-126",
+      "areaName": "Watrous"
+    },
+    {
+      "serviceCode": "4-127",
+      "areaName": "Battleford"
+    },
+    {
+      "serviceCode": "4-128",
+      "areaName": "Prince Albert"
+    },
+    {
+      "serviceCode": "4-129",
+      "areaName": "Lloydminster"
+    },
+    {
+      "serviceCode": "4-130",
+      "areaName": "Northern Saskatchewan"
+    },
+    {
+      "serviceCode": "4-131",
+      "areaName": "Medicine Hat/Brooks"
+    },
+    {
+      "serviceCode": "4-132",
+      "areaName": "Lethbridge"
+    },
+    {
+      "serviceCode": "4-133",
+      "areaName": "Stettler/Oyen/Wainwright"
+    },
+    {
+      "serviceCode": "4-134",
+      "areaName": "High River"
+    },
+    {
+      "serviceCode": "4-135",
+      "areaName": "Strathmore"
+    },
+    {
+      "serviceCode": "4-136",
+      "areaName": "Calgary"
+    },
+    {
+      "serviceCode": "4-137",
+      "areaName": "Red Deer"
+    },
+    {
+      "serviceCode": "4-138",
+      "areaName": "Wetaskiwin/Ponoka"
+    },
+    {
+      "serviceCode": "4-139",
+      "areaName": "Camrose"
+    },
+    {
+      "serviceCode": "4-140",
+      "areaName": "Vegreville"
+    },
+    {
+      "serviceCode": "4-141",
+      "areaName": "Edmonton"
+    },
+    {
+      "serviceCode": "4-142",
+      "areaName": "Edson/Hinton"
+    },
+    {
+      "serviceCode": "4-143",
+      "areaName": "Bonnyville"
+    },
+    {
+      "serviceCode": "4-144",
+      "areaName": "Whitecourt"
+    },
+    {
+      "serviceCode": "4-145",
+      "areaName": "Barrhead"
+    },
+    {
+      "serviceCode": "4-146",
+      "areaName": "Fort McMurray"
+    },
+    {
+      "serviceCode": "4-147",
+      "areaName": "Peace River"
+    },
+    {
+      "serviceCode": "4-148",
+      "areaName": "Grande Prairie"
+    },
+    {
+      "serviceCode": "4-149",
+      "areaName": "East Kootenay"
+    },
+    {
+      "serviceCode": "4-150",
+      "areaName": "West Kootenay"
+    },
+    {
+      "serviceCode": "4-151",
+      "areaName": "Kelowna"
+    },
+    {
+      "serviceCode": "4-152",
+      "areaName": "Vancouver"
+    },
+    {
+      "serviceCode": "4-153",
+      "areaName": "Hope"
+    },
+    {
+      "serviceCode": "4-154",
+      "areaName": "Victoria"
+    },
+    {
+      "serviceCode": "4-155",
+      "areaName": "Nanaimo"
+    },
+    {
+      "serviceCode": "4-156",
+      "areaName": "Courtenay"
+    },
+    {
+      "serviceCode": "4-157",
+      "areaName": "Powell River"
+    },
+    {
+      "serviceCode": "4-158",
+      "areaName": "Squamish/Whistler"
+    },
+    {
+      "serviceCode": "4-159",
+      "areaName": "Merritt"
+    },
+    {
+      "serviceCode": "4-160",
+      "areaName": "Kamloops"
+    },
+    {
+      "serviceCode": "4-161",
+      "areaName": "Ashcroft"
+    },
+    {
+      "serviceCode": "4-162",
+      "areaName": "Salmon Arm"
+    },
+    {
+      "serviceCode": "4-163",
+      "areaName": "Golden"
+    },
+    {
+      "serviceCode": "4-164",
+      "areaName": "Williams Lake"
+    },
+    {
+      "serviceCode": "4-165",
+      "areaName": "Quesnel/Red Bluff"
+    },
+    {
+      "serviceCode": "4-166",
+      "areaName": "Skeena"
+    },
+    {
+      "serviceCode": "4-167",
+      "areaName": "Prince George"
+    },
+    {
+      "serviceCode": "4-168",
+      "areaName": "Smithers"
+    },
+    {
+      "serviceCode": "4-169",
+      "areaName": "Dawson Creek"
+    },
+    {
+      "serviceCode": "4-170",
+      "areaName": "Yukon"
+    },
+    {
+      "serviceCode": "4-171",
+      "areaName": "Nunavut"
+    },
+    {
+      "serviceCode": "4-172",
+      "areaName": "Northwest Territories"
+    }
+  ],
+  "tier5": [
+    {
+      "serviceCode": "5-475",
+      "areaName": "Lloydminster West"
+    },
+    {
+      "serviceCode": "5-495",
+      "areaName": "Killam"
+    },
+    {
+      "serviceCode": "5-106",
+      "areaName": "Saguenay"
+    },
+    {
+      "serviceCode": "5-124",
+      "areaName": "Saint-Raymond"
+    },
+    {
+      "serviceCode": "5-125",
+      "areaName": "Portneuf"
+    },
+    {
+      "serviceCode": "5-121",
+      "areaName": "Laurier-Station"
+    },
+    {
+      "serviceCode": "5-127",
+      "areaName": "Sainte-Marie"
+    },
+    {
+      "serviceCode": "5-126",
+      "areaName": "Lac-Etchemin/Sainte-Claire"
+    },
+    {
+      "serviceCode": "5-129",
+      "areaName": "Saint-Gilles"
+    },
+    {
+      "serviceCode": "5-128",
+      "areaName": "Saint-Joseph-de-Beauce"
+    },
+    {
+      "serviceCode": "5-133",
+      "areaName": "Beauceville"
+    },
+    {
+      "serviceCode": "5-132",
+      "areaName": "Saint-Georges"
+    },
+    {
+      "serviceCode": "5-496",
+      "areaName": "Stettler"
+    },
+    {
+      "serviceCode": "5-134",
+      "areaName": "East Broughton"
+    },
+    {
+      "serviceCode": "5-137",
+      "areaName": "Thetford Mines"
+    },
+    {
+      "serviceCode": "5-138",
+      "areaName": "Disraeli"
+    },
+    {
+      "serviceCode": "5-140",
+      "areaName": "Princeville"
+    },
+    {
+      "serviceCode": "5-139",
+      "areaName": "Plessisville"
+    },
+    {
+      "serviceCode": "5-145",
+      "areaName": "Saint-Tite"
+    },
+    {
+      "serviceCode": "5-147",
+      "areaName": "Gentilly"
+    },
+    {
+      "serviceCode": "5-149",
+      "areaName": "Nicolet"
+    },
+    {
+      "serviceCode": "5-148",
+      "areaName": "Saint-Léonard-d'Aston"
+    },
+    {
+      "serviceCode": "5-152",
+      "areaName": "Warwick"
+    },
+    {
+      "serviceCode": "5-497",
+      "areaName": "Vulcan"
+    },
+    {
+      "serviceCode": "5-153",
+      "areaName": "Asbestos"
+    },
+    {
+      "serviceCode": "5-154",
+      "areaName": "Ham-Nord"
+    },
+    {
+      "serviceCode": "5-158",
+      "areaName": "Sherbrooke"
+    },
+    {
+      "serviceCode": "5-163",
+      "areaName": "Saint-Denis-de-Brompton"
+    },
+    {
+      "serviceCode": "5-162",
+      "areaName": "Valcourt"
+    },
+    {
+      "serviceCode": "5-161",
+      "areaName": "Magog"
+    },
+    {
+      "serviceCode": "5-159",
+      "areaName": "Waterville"
+    },
+    {
+      "serviceCode": "5-160",
+      "areaName": "Stanstead"
+    },
+    {
+      "serviceCode": "5-164",
+      "areaName": "Windsor-Greenlay"
+    },
+    {
+      "serviceCode": "5-165",
+      "areaName": "Richmond-Cleveland"
+    },
+    {
+      "serviceCode": "5-500",
+      "areaName": "Strathmore"
+    },
+    {
+      "serviceCode": "5-166",
+      "areaName": "Drummondville"
+    },
+    {
+      "serviceCode": "5-167",
+      "areaName": "Acton Vale"
+    },
+    {
+      "serviceCode": "5-168",
+      "areaName": "Sutton"
+    },
+    {
+      "serviceCode": "5-169",
+      "areaName": "Cowansville"
+    },
+    {
+      "serviceCode": "5-171",
+      "areaName": "Saint-Césaire"
+    },
+    {
+      "serviceCode": "5-181",
+      "areaName": "Saint-Michel-des-Saints"
+    },
+    {
+      "serviceCode": "5-182",
+      "areaName": "Saint-Côme"
+    },
+    {
+      "serviceCode": "5-180",
+      "areaName": "Saint-Gabriel"
+    },
+    {
+      "serviceCode": "5-178",
+      "areaName": "Lavaltrie"
+    },
+    {
+      "serviceCode": "5-179",
+      "areaName": "Joliette"
+    },
+    {
+      "serviceCode": "5-506",
+      "areaName": "Olds"
+    },
+    {
+      "serviceCode": "5-183",
+      "areaName": "Rawdon"
+    },
+    {
+      "serviceCode": "5-195",
+      "areaName": "Sainte-Adèle"
+    },
+    {
+      "serviceCode": "5-203",
+      "areaName": "L'Annonciation"
+    },
+    {
+      "serviceCode": "5-226",
+      "areaName": "Rouyn-Noranda"
+    },
+    {
+      "serviceCode": "5-399",
+      "areaName": "Stonewall"
+    },
+    {
+      "serviceCode": "5-398",
+      "areaName": "Beausejour"
+    },
+    {
+      "serviceCode": "5-397",
+      "areaName": "Oakbank"
+    },
+    {
+      "serviceCode": "5-396",
+      "areaName": "Lorette"
+    },
+    {
+      "serviceCode": "5-409",
+      "areaName": "Carman"
+    },
+    {
+      "serviceCode": "5-408",
+      "areaName": "Winkler"
+    },
+    {
+      "serviceCode": "5-504",
+      "areaName": "Calgary"
+    },
+    {
+      "serviceCode": "5-407",
+      "areaName": "Altona"
+    },
+    {
+      "serviceCode": "5-413",
+      "areaName": "Neepawa"
+    },
+    {
+      "serviceCode": "5-412",
+      "areaName": "Brandon"
+    },
+    {
+      "serviceCode": "5-414",
+      "areaName": "Treherne"
+    },
+    {
+      "serviceCode": "5-410",
+      "areaName": "Souris/Cartwright"
+    },
+    {
+      "serviceCode": "5-411",
+      "areaName": "Minnedosa"
+    },
+    {
+      "serviceCode": "5-415",
+      "areaName": "Portage la Prairie"
+    },
+    {
+      "serviceCode": "5-418",
+      "areaName": "Dauphin"
+    },
+    {
+      "serviceCode": "5-416",
+      "areaName": "Gladstone"
+    },
+    {
+      "serviceCode": "5-420",
+      "areaName": "Roblin"
+    },
+    {
+      "serviceCode": "5-509",
+      "areaName": "Rocky Mountain House"
+    },
+    {
+      "serviceCode": "5-421",
+      "areaName": "Virden"
+    },
+    {
+      "serviceCode": "5-422",
+      "areaName": "Melita"
+    },
+    {
+      "serviceCode": "5-053",
+      "areaName": "Sussex"
+    },
+    {
+      "serviceCode": "5-064",
+      "areaName": "Florenceville-Bristol"
+    },
+    {
+      "serviceCode": "5-063",
+      "areaName": "Hartland"
+    },
+    {
+      "serviceCode": "5-058",
+      "areaName": "Minto"
+    },
+    {
+      "serviceCode": "5-077",
+      "areaName": "Northumberland-Central"
+    },
+    {
+      "serviceCode": "5-075",
+      "areaName": "Miramichi"
+    },
+    {
+      "serviceCode": "5-079",
+      "areaName": "Grand Falls"
+    },
+    {
+      "serviceCode": "5-078",
+      "areaName": "Plaster Rock"
+    },
+    {
+      "serviceCode": "5-511",
+      "areaName": "Red Deer"
+    },
+    {
+      "serviceCode": "5-030",
+      "areaName": "Meteghan"
+    },
+    {
+      "serviceCode": "5-034",
+      "areaName": "Liverpool"
+    },
+    {
+      "serviceCode": "5-038",
+      "areaName": "Wolfville"
+    },
+    {
+      "serviceCode": "5-039",
+      "areaName": "Windsor-Newport"
+    },
+    {
+      "serviceCode": "5-040",
+      "areaName": "St. Margarets Bay"
+    },
+    {
+      "serviceCode": "5-044",
+      "areaName": "Truro"
+    },
+    {
+      "serviceCode": "5-048",
+      "areaName": "Antigonish"
+    },
+    {
+      "serviceCode": "5-050",
+      "areaName": "Port Hawkesbury"
+    },
+    {
+      "serviceCode": "5-439",
+      "areaName": "Leader"
+    },
+    {
+      "serviceCode": "5-437",
+      "areaName": "Maple Creek"
+    },
+    {
+      "serviceCode": "5-512",
+      "areaName": "Lacombe"
+    },
+    {
+      "serviceCode": "5-444",
+      "areaName": "Wadena/Preeceville"
+    },
+    {
+      "serviceCode": "5-442",
+      "areaName": "Yorkton"
+    },
+    {
+      "serviceCode": "5-441",
+      "areaName": "Kamsack"
+    },
+    {
+      "serviceCode": "5-440",
+      "areaName": "Esterhazy"
+    },
+    {
+      "serviceCode": "5-449",
+      "areaName": "Lumsden"
+    },
+    {
+      "serviceCode": "5-448",
+      "areaName": "Regina"
+    },
+    {
+      "serviceCode": "5-447",
+      "areaName": "Pilot Butte"
+    },
+    {
+      "serviceCode": "5-446",
+      "areaName": "Fort Qu'Appelle"
+    },
+    {
+      "serviceCode": "5-445",
+      "areaName": "Rouleau"
+    },
+    {
+      "serviceCode": "5-453",
+      "areaName": "Waldheim"
+    },
+    {
+      "serviceCode": "5-510",
+      "areaName": "Sylvan Lake"
+    },
+    {
+      "serviceCode": "5-451",
+      "areaName": "Saskatoon"
+    },
+    {
+      "serviceCode": "5-456",
+      "areaName": "Outlook"
+    },
+    {
+      "serviceCode": "5-464",
+      "areaName": "Meadow Lake"
+    },
+    {
+      "serviceCode": "5-463",
+      "areaName": "Loon Lake"
+    },
+    {
+      "serviceCode": "5-462",
+      "areaName": "Lloydminster East"
+    },
+    {
+      "serviceCode": "5-460",
+      "areaName": "Turtleford"
+    },
+    {
+      "serviceCode": "5-461",
+      "areaName": "Unity"
+    },
+    {
+      "serviceCode": "5-459",
+      "areaName": "North Battleford"
+    },
+    {
+      "serviceCode": "5-458",
+      "areaName": "Biggar"
+    },
+    {
+      "serviceCode": "5-457",
+      "areaName": "Rosetown"
+    },
+    {
+      "serviceCode": "5-476",
+      "areaName": "Vermilion"
+    },
+    {
+      "serviceCode": "5-514",
+      "areaName": "Wetaskiwin"
+    },
+    {
+      "serviceCode": "5-465",
+      "areaName": "Spiritwood"
+    },
+    {
+      "serviceCode": "5-468",
+      "areaName": "Prince Albert"
+    },
+    {
+      "serviceCode": "5-470",
+      "areaName": "Humboldt"
+    },
+    {
+      "serviceCode": "5-474",
+      "areaName": "Hudson Bay"
+    },
+    {
+      "serviceCode": "5-552",
+      "areaName": "Invermere"
+    },
+    {
+      "serviceCode": "5-550",
+      "areaName": "Sparwood"
+    },
+    {
+      "serviceCode": "5-553",
+      "areaName": "Marysville"
+    },
+    {
+      "serviceCode": "5-551",
+      "areaName": "Cranbrook"
+    },
+    {
+      "serviceCode": "5-555",
+      "areaName": "Kaslo"
+    },
+    {
+      "serviceCode": "5-557",
+      "areaName": "Castlegar"
+    },
+    {
+      "serviceCode": "5-513",
+      "areaName": "Ponoka"
+    },
+    {
+      "serviceCode": "5-556",
+      "areaName": "Nelson"
+    },
+    {
+      "serviceCode": "5-554",
+      "areaName": "Creston"
+    },
+    {
+      "serviceCode": "5-558",
+      "areaName": "Rossland"
+    },
+    {
+      "serviceCode": "5-562",
+      "areaName": "Vernon"
+    },
+    {
+      "serviceCode": "5-561",
+      "areaName": "Armstrong"
+    },
+    {
+      "serviceCode": "5-559",
+      "areaName": "Grand Forks"
+    },
+    {
+      "serviceCode": "5-613",
+      "areaName": "Salmon Arm"
+    },
+    {
+      "serviceCode": "5-614",
+      "areaName": "Golden"
+    },
+    {
+      "serviceCode": "5-615",
+      "areaName": "100 Mile House"
+    },
+    {
+      "serviceCode": "5-626",
+      "areaName": "Prince George"
+    },
+    {
+      "serviceCode": "5-516",
+      "areaName": "Tofield"
+    },
+    {
+      "serviceCode": "5-631",
+      "areaName": "Fort St. James"
+    },
+    {
+      "serviceCode": "5-630",
+      "areaName": "Smithers"
+    },
+    {
+      "serviceCode": "5-629",
+      "areaName": "Burns Lake"
+    },
+    {
+      "serviceCode": "5-628",
+      "areaName": "Vanderhoof"
+    },
+    {
+      "serviceCode": "5-634",
+      "areaName": "Fort St. John"
+    },
+    {
+      "serviceCode": "5-633",
+      "areaName": "Tumbler Ridge"
+    },
+    {
+      "serviceCode": "5-632",
+      "areaName": "Dawson Creek"
+    },
+    {
+      "serviceCode": "5-213",
+      "areaName": "Kemptville"
+    },
+    {
+      "serviceCode": "5-187",
+      "areaName": "Island of Montreal"
+    },
+    {
+      "serviceCode": "5-569",
+      "areaName": "Mission"
+    },
+    {
+      "serviceCode": "5-515",
+      "areaName": "Camrose"
+    },
+    {
+      "serviceCode": "5-574",
+      "areaName": "Burnaby"
+    },
+    {
+      "serviceCode": "5-572",
+      "areaName": "Surrey"
+    },
+    {
+      "serviceCode": "5-567",
+      "areaName": "Chilliwack"
+    },
+    {
+      "serviceCode": "5-571",
+      "areaName": "Langley"
+    },
+    {
+      "serviceCode": "5-568",
+      "areaName": "Abbotsford"
+    },
+    {
+      "serviceCode": "5-020",
+      "areaName": "Souris"
+    },
+    {
+      "serviceCode": "5-021",
+      "areaName": "Montague"
+    },
+    {
+      "serviceCode": "5-026",
+      "areaName": "Alberton"
+    },
+    {
+      "serviceCode": "5-024",
+      "areaName": "Kensington"
+    },
+    {
+      "serviceCode": "5-025",
+      "areaName": "Summerside"
+    },
+    {
+      "serviceCode": "5-517",
+      "areaName": "Vegreville"
+    },
+    {
+      "serviceCode": "5-043",
+      "areaName": "Sheet Harbour/Sable Island"
+    },
+    {
+      "serviceCode": "5-029",
+      "areaName": "Yarmouth"
+    },
+    {
+      "serviceCode": "5-036",
+      "areaName": "Chester"
+    },
+    {
+      "serviceCode": "5-035",
+      "areaName": "Bridgewater"
+    },
+    {
+      "serviceCode": "5-430",
+      "areaName": "Moosomin"
+    },
+    {
+      "serviceCode": "5-438",
+      "areaName": "Swift Current"
+    },
+    {
+      "serviceCode": "5-436",
+      "areaName": "Herbert"
+    },
+    {
+      "serviceCode": "5-435",
+      "areaName": "Moose Jaw"
+    },
+    {
+      "serviceCode": "5-434",
+      "areaName": "Assiniboia"
+    },
+    {
+      "serviceCode": "5-041",
+      "areaName": "Halifax"
+    },
+    {
+      "serviceCode": "5-518",
+      "areaName": "Lamont"
+    },
+    {
+      "serviceCode": "5-608",
+      "areaName": "Clearwater"
+    },
+    {
+      "serviceCode": "5-609",
+      "areaName": "Ashcroft"
+    },
+    {
+      "serviceCode": "5-042",
+      "areaName": "Enfield-Porters Lake"
+    },
+    {
+      "serviceCode": "5-037",
+      "areaName": "Kentville"
+    },
+    {
+      "serviceCode": "5-027",
+      "areaName": "Shelburne/Barrington"
+    },
+    {
+      "serviceCode": "5-028",
+      "areaName": "Wedgeport"
+    },
+    {
+      "serviceCode": "5-049",
+      "areaName": "Guysborough"
+    },
+    {
+      "serviceCode": "5-047",
+      "areaName": "New Glasgow"
+    },
+    {
+      "serviceCode": "5-031",
+      "areaName": "Digby"
+    },
+    {
+      "serviceCode": "5-033",
+      "areaName": "Greenwood"
+    },
+    {
+      "serviceCode": "5-524",
+      "areaName": "Drayton Valley"
+    },
+    {
+      "serviceCode": "5-032",
+      "areaName": "Annapolis"
+    },
+    {
+      "serviceCode": "5-067",
+      "areaName": "Moncton"
+    },
+    {
+      "serviceCode": "5-443",
+      "areaName": "Melville"
+    },
+    {
+      "serviceCode": "5-450",
+      "areaName": "Allan"
+    },
+    {
+      "serviceCode": "5-452",
+      "areaName": "Martensville"
+    },
+    {
+      "serviceCode": "5-455",
+      "areaName": "Watrous"
+    },
+    {
+      "serviceCode": "5-454",
+      "areaName": "Wynyard"
+    },
+    {
+      "serviceCode": "5-215",
+      "areaName": "Westport"
+    },
+    {
+      "serviceCode": "5-214",
+      "areaName": "Smiths Falls"
+    },
+    {
+      "serviceCode": "5-216",
+      "areaName": "Carleton Place"
+    },
+    {
+      "serviceCode": "5-528",
+      "areaName": "Lac La Biche"
+    },
+    {
+      "serviceCode": "5-212",
+      "areaName": "Winchester"
+    },
+    {
+      "serviceCode": "5-217",
+      "areaName": "La Pêche"
+    },
+    {
+      "serviceCode": "5-208",
+      "areaName": "Perkins"
+    },
+    {
+      "serviceCode": "5-207",
+      "areaName": "Thurso"
+    },
+    {
+      "serviceCode": "5-210",
+      "areaName": "Rockland"
+    },
+    {
+      "serviceCode": "5-211",
+      "areaName": "Embrun"
+    },
+    {
+      "serviceCode": "5-209",
+      "areaName": "Ottawa-Gatineau"
+    },
+    {
+      "serviceCode": "5-189",
+      "areaName": "Saint-Jean-sur-Richelieu"
+    },
+    {
+      "serviceCode": "5-193",
+      "areaName": "L'Île-Perrot"
+    },
+    {
+      "serviceCode": "5-184",
+      "areaName": "Saint-Roch-de-l'Achigan"
+    },
+    {
+      "serviceCode": "5-531",
+      "areaName": "Athabasca"
+    },
+    {
+      "serviceCode": "5-170",
+      "areaName": "Bedford"
+    },
+    {
+      "serviceCode": "5-172",
+      "areaName": "Granby"
+    },
+    {
+      "serviceCode": "5-173",
+      "areaName": "Waterloo"
+    },
+    {
+      "serviceCode": "5-175",
+      "areaName": "Saint-Liboire"
+    },
+    {
+      "serviceCode": "5-174",
+      "areaName": "Saint-Hyacinthe"
+    },
+    {
+      "serviceCode": "5-177",
+      "areaName": "Sorel-Tracy"
+    },
+    {
+      "serviceCode": "5-176",
+      "areaName": "Saint-Roch-de-Richelieu"
+    },
+    {
+      "serviceCode": "5-136",
+      "areaName": "Lac-Mégantic"
+    },
+    {
+      "serviceCode": "5-135",
+      "areaName": "La Guadeloupe"
+    },
+    {
+      "serviceCode": "5-157",
+      "areaName": "East Angus"
+    },
+    {
+      "serviceCode": "5-527",
+      "areaName": "Cold Lake"
+    },
+    {
+      "serviceCode": "5-156",
+      "areaName": "Coaticook"
+    },
+    {
+      "serviceCode": "5-196",
+      "areaName": "Val-David"
+    },
+    {
+      "serviceCode": "5-198",
+      "areaName": "Mont-Tremblant"
+    },
+    {
+      "serviceCode": "5-197",
+      "areaName": "Saint-Donat-de-Montcalm"
+    },
+    {
+      "serviceCode": "5-062",
+      "areaName": "McAdam"
+    },
+    {
+      "serviceCode": "5-057",
+      "areaName": "St. Stephen"
+    },
+    {
+      "serviceCode": "5-056",
+      "areaName": "Saint Andrews"
+    },
+    {
+      "serviceCode": "5-243",
+      "areaName": "Sept-Îles"
+    },
+    {
+      "serviceCode": "5-244",
+      "areaName": "Havre-Saint-Pierre"
+    },
+    {
+      "serviceCode": "5-252",
+      "areaName": "Cornwall"
+    },
+    {
+      "serviceCode": "5-484",
+      "areaName": "Brooks"
+    },
+    {
+      "serviceCode": "5-530",
+      "areaName": "Redwater"
+    },
+    {
+      "serviceCode": "5-253",
+      "areaName": "Ingleside"
+    },
+    {
+      "serviceCode": "5-254",
+      "areaName": "Prescott"
+    },
+    {
+      "serviceCode": "5-255",
+      "areaName": "Brockville"
+    },
+    {
+      "serviceCode": "5-256",
+      "areaName": "Gananoque"
+    },
+    {
+      "serviceCode": "5-257",
+      "areaName": "Kingston"
+    },
+    {
+      "serviceCode": "5-261",
+      "areaName": "Napanee"
+    },
+    {
+      "serviceCode": "5-262",
+      "areaName": "Picton"
+    },
+    {
+      "serviceCode": "5-269",
+      "areaName": "Brighton"
+    },
+    {
+      "serviceCode": "5-271",
+      "areaName": "Port Hope"
+    },
+    {
+      "serviceCode": "5-270",
+      "areaName": "Colborne"
+    },
+    {
+      "serviceCode": "5-529",
+      "areaName": "St. Paul"
+    },
+    {
+      "serviceCode": "5-273",
+      "areaName": "Peterborough"
+    },
+    {
+      "serviceCode": "5-274",
+      "areaName": "Norwood"
+    },
+    {
+      "serviceCode": "5-272",
+      "areaName": "Millbrook"
+    },
+    {
+      "serviceCode": "5-281",
+      "areaName": "York"
+    },
+    {
+      "serviceCode": "5-329",
+      "areaName": "Brantford"
+    },
+    {
+      "serviceCode": "5-327",
+      "areaName": "St. Thomas"
+    },
+    {
+      "serviceCode": "5-328",
+      "areaName": "West Lorne"
+    },
+    {
+      "serviceCode": "5-323",
+      "areaName": "Aylmer"
+    },
+    {
+      "serviceCode": "5-322",
+      "areaName": "Ingersoll"
+    },
+    {
+      "serviceCode": "5-324",
+      "areaName": "Thamesford"
+    },
+    {
+      "serviceCode": "5-533",
+      "areaName": "Whitecourt"
+    },
+    {
+      "serviceCode": "5-330",
+      "areaName": "Burford"
+    },
+    {
+      "serviceCode": "5-318",
+      "areaName": "Simcoe"
+    },
+    {
+      "serviceCode": "5-326",
+      "areaName": "London"
+    },
+    {
+      "serviceCode": "5-317",
+      "areaName": "Caledonia/Dunnville"
+    },
+    {
+      "serviceCode": "5-316",
+      "areaName": "Niagara-St. Catharines"
+    },
+    {
+      "serviceCode": "5-315",
+      "areaName": "Fort Erie"
+    },
+    {
+      "serviceCode": "5-333",
+      "areaName": "Tilbury"
+    },
+    {
+      "serviceCode": "5-338",
+      "areaName": "Windsor"
+    },
+    {
+      "serviceCode": "5-335",
+      "areaName": "Leamington"
+    },
+    {
+      "serviceCode": "5-337",
+      "areaName": "Amherstburg"
+    },
+    {
+      "serviceCode": "5-532",
+      "areaName": "Mayerthorpe"
+    },
+    {
+      "serviceCode": "5-336",
+      "areaName": "Essex"
+    },
+    {
+      "serviceCode": "5-309",
+      "areaName": "Lucknow"
+    },
+    {
+      "serviceCode": "5-310",
+      "areaName": "Goderich"
+    },
+    {
+      "serviceCode": "5-313",
+      "areaName": "Exeter"
+    },
+    {
+      "serviceCode": "5-314",
+      "areaName": "Seaforth"
+    },
+    {
+      "serviceCode": "5-353",
+      "areaName": "Collingwood"
+    },
+    {
+      "serviceCode": "5-350",
+      "areaName": "Orillia"
+    },
+    {
+      "serviceCode": "5-352",
+      "areaName": "Coldwater"
+    },
+    {
+      "serviceCode": "5-351",
+      "areaName": "Lagoon City"
+    },
+    {
+      "serviceCode": "5-354",
+      "areaName": "Penetanguishene"
+    },
+    {
+      "serviceCode": "5-534",
+      "areaName": "Barrhead"
+    },
+    {
+      "serviceCode": "5-356",
+      "areaName": "Port Carling"
+    },
+    {
+      "serviceCode": "5-384",
+      "areaName": "Echo Bay"
+    },
+    {
+      "serviceCode": "5-385",
+      "areaName": "Sault Ste. Marie"
+    },
+    {
+      "serviceCode": "5-389",
+      "areaName": "Thunder Bay"
+    },
+    {
+      "serviceCode": "5-394",
+      "areaName": "Steinbach"
+    },
+    {
+      "serviceCode": "5-393",
+      "areaName": "La Broquerie"
+    },
+    {
+      "serviceCode": "5-392",
+      "areaName": "Emerson"
+    },
+    {
+      "serviceCode": "5-395",
+      "areaName": "Morris"
+    },
+    {
+      "serviceCode": "5-401",
+      "areaName": "La Salle"
+    },
+    {
+      "serviceCode": "5-400",
+      "areaName": "Winnipeg"
+    },
+    {
+      "serviceCode": "5-535",
+      "areaName": "Westlock"
+    },
+    {
+      "serviceCode": "5-419",
+      "areaName": "Swan River"
+    },
+    {
+      "serviceCode": "5-417",
+      "areaName": "Sainte Rose du Lac"
+    },
+    {
+      "serviceCode": "5-502",
+      "areaName": "Trochu"
+    },
+    {
+      "serviceCode": "5-501",
+      "areaName": "Drumheller"
+    },
+    {
+      "serviceCode": "5-492",
+      "areaName": "Hanna"
+    },
+    {
+      "serviceCode": "5-493",
+      "areaName": "Provost"
+    },
+    {
+      "serviceCode": "5-488",
+      "areaName": "Lethbridge"
+    },
+    {
+      "serviceCode": "5-489",
+      "areaName": "Cardston"
+    },
+    {
+      "serviceCode": "5-483",
+      "areaName": "Bow Island"
+    },
+    {
+      "serviceCode": "5-522",
+      "areaName": "Morinville"
+    },
+    {
+      "serviceCode": "5-546",
+      "areaName": "High Level"
+    },
+    {
+      "serviceCode": "5-520",
+      "areaName": "Devon"
+    },
+    {
+      "serviceCode": "5-519",
+      "areaName": "Fort Saskatchewan"
+    },
+    {
+      "serviceCode": "5-523",
+      "areaName": "Wabamun"
+    },
+    {
+      "serviceCode": "5-521",
+      "areaName": "Edmonton"
+    },
+    {
+      "serviceCode": "5-540",
+      "areaName": "Garden Creek"
+    },
+    {
+      "serviceCode": "5-543",
+      "areaName": "Manning"
+    },
+    {
+      "serviceCode": "5-544",
+      "areaName": "Grimshaw"
+    },
+    {
+      "serviceCode": "5-565",
+      "areaName": "Penticton"
+    },
+    {
+      "serviceCode": "5-575",
+      "areaName": "Delta"
+    },
+    {
+      "serviceCode": "5-576",
+      "areaName": "Richmond"
+    },
+    {
+      "serviceCode": "5-541",
+      "areaName": "Slave Lake"
+    },
+    {
+      "serviceCode": "5-584",
+      "areaName": "Mill Bay"
+    },
+    {
+      "serviceCode": "5-587",
+      "areaName": "Sooke"
+    },
+    {
+      "serviceCode": "5-583",
+      "areaName": "Victoria"
+    },
+    {
+      "serviceCode": "5-582",
+      "areaName": "Southern Gulf Islands"
+    },
+    {
+      "serviceCode": "5-585",
+      "areaName": "Duncan"
+    },
+    {
+      "serviceCode": "5-586",
+      "areaName": "Ladysmith"
+    },
+    {
+      "serviceCode": "5-590",
+      "areaName": "Bowser"
+    },
+    {
+      "serviceCode": "5-588",
+      "areaName": "Nanaimo"
+    },
+    {
+      "serviceCode": "5-589",
+      "areaName": "Parksville"
+    },
+    {
+      "serviceCode": "5-604",
+      "areaName": "Princeton"
+    },
+    {
+      "serviceCode": "5-542",
+      "areaName": "High Prairie"
+    },
+    {
+      "serviceCode": "5-605",
+      "areaName": "Merritt"
+    },
+    {
+      "serviceCode": "5-610",
+      "areaName": "Revelstoke"
+    },
+    {
+      "serviceCode": "5-611",
+      "areaName": "Enderby"
+    },
+    {
+      "serviceCode": "5-620",
+      "areaName": "Wells"
+    },
+    {
+      "serviceCode": "5-619",
+      "areaName": "Quesnel"
+    },
+    {
+      "serviceCode": "5-616",
+      "areaName": "Lac la Hache"
+    },
+    {
+      "serviceCode": "5-618",
+      "areaName": "Alexis Creek/Anahim Lake"
+    },
+    {
+      "serviceCode": "5-617",
+      "areaName": "Williams Lake"
+    },
+    {
+      "serviceCode": "5-603",
+      "areaName": "Gibsons"
+    },
+    {
+      "serviceCode": "5-627",
+      "areaName": "Shelley"
+    },
+    {
+      "serviceCode": "5-545",
+      "areaName": "Fairview"
+    },
+    {
+      "serviceCode": "5-625",
+      "areaName": "Mackenzie"
+    },
+    {
+      "serviceCode": "5-635",
+      "areaName": "Fort Nelson"
+    },
+    {
+      "serviceCode": "5-636",
+      "areaName": "Wonowon"
+    },
+    {
+      "serviceCode": "5-597",
+      "areaName": "Port Hardy"
+    },
+    {
+      "serviceCode": "5-594",
+      "areaName": "Courtenay"
+    },
+    {
+      "serviceCode": "5-403",
+      "areaName": "Northern Interlake"
+    },
+    {
+      "serviceCode": "5-402",
+      "areaName": "Lac du Bonnet"
+    },
+    {
+      "serviceCode": "5-405",
+      "areaName": "Gimli"
+    },
+    {
+      "serviceCode": "5-404",
+      "areaName": "Arborg"
+    },
+    {
+      "serviceCode": "5-406",
+      "areaName": "Warren"
+    },
+    {
+      "serviceCode": "5-490",
+      "areaName": "Nanton"
+    },
+    {
+      "serviceCode": "5-547",
+      "areaName": "Fox Creek"
+    },
+    {
+      "serviceCode": "5-623",
+      "areaName": "Terrace"
+    },
+    {
+      "serviceCode": "5-538",
+      "areaName": "Fort McKay"
+    },
+    {
+      "serviceCode": "5-539",
+      "areaName": "Fort Chipewyan"
+    },
+    {
+      "serviceCode": "5-537",
+      "areaName": "Fort McMurray"
+    },
+    {
+      "serviceCode": "5-105",
+      "areaName": "La Baie"
+    },
+    {
+      "serviceCode": "5-108",
+      "areaName": "L'Ascension-de-Notre-Seigneur"
+    },
+    {
+      "serviceCode": "5-109",
+      "areaName": "Alma"
+    },
+    {
+      "serviceCode": "5-595",
+      "areaName": "Black Creek/Fanny Bay"
+    },
+    {
+      "serviceCode": "5-596",
+      "areaName": "Campbell River"
+    },
+    {
+      "serviceCode": "5-622",
+      "areaName": "Stewart-Dease Lake"
+    },
+    {
+      "serviceCode": "5-548",
+      "areaName": "Grande Prairie"
+    },
+    {
+      "serviceCode": "5-624",
+      "areaName": "Prince Rupert"
+    },
+    {
+      "serviceCode": "5-577",
+      "areaName": "Vancouver"
+    },
+    {
+      "serviceCode": "5-573",
+      "areaName": "North Shore-Coquitlam"
+    },
+    {
+      "serviceCode": "5-578",
+      "areaName": "Bowen Island"
+    },
+    {
+      "serviceCode": "5-482",
+      "areaName": "Suffield"
+    },
+    {
+      "serviceCode": "5-480",
+      "areaName": "Irvine"
+    },
+    {
+      "serviceCode": "5-481",
+      "areaName": "Medicine Hat"
+    },
+    {
+      "serviceCode": "5-367",
+      "areaName": "Elliot Lake"
+    },
+    {
+      "serviceCode": "5-366",
+      "areaName": "Little Current"
+    },
+    {
+      "serviceCode": "5-297",
+      "areaName": "Mount Forest"
+    },
+    {
+      "serviceCode": "5-549",
+      "areaName": "Beaverlodge"
+    },
+    {
+      "serviceCode": "5-305",
+      "areaName": "Walkerton"
+    },
+    {
+      "serviceCode": "5-303",
+      "areaName": "Hanover"
+    },
+    {
+      "serviceCode": "5-298",
+      "areaName": "Holstein"
+    },
+    {
+      "serviceCode": "5-302",
+      "areaName": "Chesley"
+    },
+    {
+      "serviceCode": "5-304",
+      "areaName": "Harriston"
+    },
+    {
+      "serviceCode": "5-299",
+      "areaName": "Thornbury"
+    },
+    {
+      "serviceCode": "5-300",
+      "areaName": "Owen Sound"
+    },
+    {
+      "serviceCode": "5-301",
+      "areaName": "Wiarton"
+    },
+    {
+      "serviceCode": "5-308",
+      "areaName": "Wingham"
+    },
+    {
+      "serviceCode": "5-307",
+      "areaName": "Kincardine"
+    },
+    {
+      "serviceCode": "5-012",
+      "areaName": "Gander/Grand Falls-Windsor"
+    },
+    {
+      "serviceCode": "5-306",
+      "areaName": "Port Elgin"
+    },
+    {
+      "serviceCode": "5-285",
+      "areaName": "Hamilton"
+    },
+    {
+      "serviceCode": "5-344",
+      "areaName": "Forest"
+    },
+    {
+      "serviceCode": "5-343",
+      "areaName": "Sarnia"
+    },
+    {
+      "serviceCode": "5-280",
+      "areaName": "Durham"
+    },
+    {
+      "serviceCode": "5-282",
+      "areaName": "Toronto"
+    },
+    {
+      "serviceCode": "5-144",
+      "areaName": "Shawinigan"
+    },
+    {
+      "serviceCode": "5-143",
+      "areaName": "Saint-Alexis-des-Monts"
+    },
+    {
+      "serviceCode": "5-146",
+      "areaName": "Trois-Rivières"
+    },
+    {
+      "serviceCode": "5-150",
+      "areaName": "Saint-Barnabé-Nord"
+    },
+    {
+      "serviceCode": "5-278",
+      "areaName": "Haliburton"
+    },
+    {
+      "serviceCode": "5-151",
+      "areaName": "Louiseville"
+    },
+    {
+      "serviceCode": "5-206",
+      "areaName": "Maniwaki"
+    },
+    {
+      "serviceCode": "5-205",
+      "areaName": "Mont-Laurier"
+    },
+    {
+      "serviceCode": "5-204",
+      "areaName": "Ferme-Neuve"
+    },
+    {
+      "serviceCode": "5-112",
+      "areaName": "Saint-Damien-de-Buckland"
+    },
+    {
+      "serviceCode": "5-111",
+      "areaName": "Cap-Saint-Ignace"
+    },
+    {
+      "serviceCode": "5-110",
+      "areaName": "Saint-Jean-Port-Joli"
+    },
+    {
+      "serviceCode": "5-114",
+      "areaName": "Montmagny"
+    },
+    {
+      "serviceCode": "5-113",
+      "areaName": "Saint-Raphaël"
+    },
+    {
+      "serviceCode": "5-103",
+      "areaName": "Clermont"
+    },
+    {
+      "serviceCode": "5-279",
+      "areaName": "Minden"
+    },
+    {
+      "serviceCode": "5-104",
+      "areaName": "Baie-Saint-Paul"
+    },
+    {
+      "serviceCode": "5-115",
+      "areaName": "Saint-Tite-des-Caps"
+    },
+    {
+      "serviceCode": "5-116",
+      "areaName": "Beaupré"
+    },
+    {
+      "serviceCode": "5-123",
+      "areaName": "Sainte-Catherine-de-la-Jacques-Cartier"
+    },
+    {
+      "serviceCode": "5-119",
+      "areaName": "Saint-Anselme"
+    },
+    {
+      "serviceCode": "5-117",
+      "areaName": "Québec"
+    },
+    {
+      "serviceCode": "5-118",
+      "areaName": "Saint-Charles-de-Bellechasse"
+    },
+    {
+      "serviceCode": "5-122",
+      "areaName": "Pont-Rouge"
+    },
+    {
+      "serviceCode": "5-120",
+      "areaName": "Saint-Apollinaire"
+    },
+    {
+      "serviceCode": "5-130",
+      "areaName": "Saint-Prosper"
+    },
+    {
+      "serviceCode": "5-288",
+      "areaName": "Alliston"
+    },
+    {
+      "serviceCode": "5-131",
+      "areaName": "Saint-Côme-Linière"
+    },
+    {
+      "serviceCode": "5-102",
+      "areaName": "La Pocatière"
+    },
+    {
+      "serviceCode": "5-101",
+      "areaName": "Saint-Pascal"
+    },
+    {
+      "serviceCode": "5-100",
+      "areaName": "Rivière-du-Loup"
+    },
+    {
+      "serviceCode": "5-098",
+      "areaName": "Trois-Pistoles"
+    },
+    {
+      "serviceCode": "5-094",
+      "areaName": "Mont-Joli"
+    },
+    {
+      "serviceCode": "5-092",
+      "areaName": "Causapscal"
+    },
+    {
+      "serviceCode": "5-069",
+      "areaName": "Bouctouche"
+    },
+    {
+      "serviceCode": "5-074",
+      "areaName": "Saint-Isidore"
+    },
+    {
+      "serviceCode": "5-076",
+      "areaName": "Bathurst"
+    },
+    {
+      "serviceCode": "5-289",
+      "areaName": "Shelburne"
+    },
+    {
+      "serviceCode": "5-070",
+      "areaName": "Saint-Louis de Kent"
+    },
+    {
+      "serviceCode": "5-071",
+      "areaName": "Tracadie"
+    },
+    {
+      "serviceCode": "5-073",
+      "areaName": "Caraquet"
+    },
+    {
+      "serviceCode": "5-072",
+      "areaName": "Shippagan"
+    },
+    {
+      "serviceCode": "5-066",
+      "areaName": "Shediac"
+    },
+    {
+      "serviceCode": "5-068",
+      "areaName": "Salisbury"
+    },
+    {
+      "serviceCode": "5-065",
+      "areaName": "Dorchester"
+    },
+    {
+      "serviceCode": "5-046",
+      "areaName": "Amherst"
+    },
+    {
+      "serviceCode": "5-045",
+      "areaName": "Springhill"
+    },
+    {
+      "serviceCode": "5-051",
+      "areaName": "Sydney"
+    },
+    {
+      "serviceCode": "5-291",
+      "areaName": "Orangeville"
+    },
+    {
+      "serviceCode": "5-052",
+      "areaName": "Inverness"
+    },
+    {
+      "serviceCode": "5-381",
+      "areaName": "Kenora"
+    },
+    {
+      "serviceCode": "5-380",
+      "areaName": "Dryden"
+    },
+    {
+      "serviceCode": "5-388",
+      "areaName": "Suomi"
+    },
+    {
+      "serviceCode": "5-386",
+      "areaName": "Manitouwadge"
+    },
+    {
+      "serviceCode": "5-387",
+      "areaName": "Lake Nipigon"
+    },
+    {
+      "serviceCode": "5-376",
+      "areaName": "Kapuskasing"
+    },
+    {
+      "serviceCode": "5-425",
+      "areaName": "Island Lake"
+    },
+    {
+      "serviceCode": "5-427",
+      "areaName": "Churchill"
+    },
+    {
+      "serviceCode": "5-426",
+      "areaName": "Thompson"
+    },
+    {
+      "serviceCode": "5-290",
+      "areaName": "Grand Valley"
+    },
+    {
+      "serviceCode": "5-370",
+      "areaName": "Chelmsford"
+    },
+    {
+      "serviceCode": "5-368",
+      "areaName": "Wahnapitae"
+    },
+    {
+      "serviceCode": "5-369",
+      "areaName": "Sudbury"
+    },
+    {
+      "serviceCode": "5-607",
+      "areaName": "Kamloops"
+    },
+    {
+      "serviceCode": "5-606",
+      "areaName": "Chase"
+    },
+    {
+      "serviceCode": "5-095",
+      "areaName": "Sainte-Blandine"
+    },
+    {
+      "serviceCode": "5-096",
+      "areaName": "Rimouski"
+    },
+    {
+      "serviceCode": "5-054",
+      "areaName": "Hampton"
+    },
+    {
+      "serviceCode": "5-055",
+      "areaName": "Saint John"
+    },
+    {
+      "serviceCode": "5-060",
+      "areaName": "Fredericton"
+    },
+    {
+      "serviceCode": "5-485",
+      "areaName": "Taber"
+    },
+    {
+      "serviceCode": "5-287",
+      "areaName": "Bradford West"
+    },
+    {
+      "serviceCode": "5-061",
+      "areaName": "McKeens Corner"
+    },
+    {
+      "serviceCode": "5-059",
+      "areaName": "Lower Burton"
+    },
+    {
+      "serviceCode": "5-023",
+      "areaName": "North Rustico"
+    },
+    {
+      "serviceCode": "5-022",
+      "areaName": "Charlottetown"
+    },
+    {
+      "serviceCode": "5-242",
+      "areaName": "Fermont"
+    },
+    {
+      "serviceCode": "5-240",
+      "areaName": "Forestville"
+    },
+    {
+      "serviceCode": "5-241",
+      "areaName": "Le Vieux-Poste"
+    },
+    {
+      "serviceCode": "5-227",
+      "areaName": "Notre-Dame-du-Nord"
+    },
+    {
+      "serviceCode": "5-228",
+      "areaName": "Témiscaming"
+    },
+    {
+      "serviceCode": "5-234",
+      "areaName": "Malartic"
+    },
+    {
+      "serviceCode": "5-295",
+      "areaName": "Drayton"
+    },
+    {
+      "serviceCode": "5-235",
+      "areaName": "Senneterre"
+    },
+    {
+      "serviceCode": "5-003",
+      "areaName": "Bay Roberts"
+    },
+    {
+      "serviceCode": "5-002",
+      "areaName": "Harbour Grace"
+    },
+    {
+      "serviceCode": "5-004",
+      "areaName": "Whitbourne/Trinity Bay North"
+    },
+    {
+      "serviceCode": "5-001",
+      "areaName": "St. John's"
+    },
+    {
+      "serviceCode": "5-478",
+      "areaName": "La Loche"
+    },
+    {
+      "serviceCode": "5-007",
+      "areaName": "Burin Peninsula"
+    },
+    {
+      "serviceCode": "5-013",
+      "areaName": "Burgeo-Bay D'Espoir"
+    },
+    {
+      "serviceCode": "5-008",
+      "areaName": "Bonavista"
+    },
+    {
+      "serviceCode": "5-009",
+      "areaName": "Gambo"
+    },
+    {
+      "serviceCode": "5-292",
+      "areaName": "Hillsburgh"
+    },
+    {
+      "serviceCode": "5-010",
+      "areaName": "Lewisporte"
+    },
+    {
+      "serviceCode": "5-011",
+      "areaName": "La Scie"
+    },
+    {
+      "serviceCode": "5-014",
+      "areaName": "Stephenville"
+    },
+    {
+      "serviceCode": "5-015",
+      "areaName": "Corner Brook/Deer Lake"
+    },
+    {
+      "serviceCode": "5-016",
+      "areaName": "Northern Peninsula"
+    },
+    {
+      "serviceCode": "5-017",
+      "areaName": "Labrador City/Happy Valley-Goose Bay"
+    },
+    {
+      "serviceCode": "5-018",
+      "areaName": "Hopedale"
+    },
+    {
+      "serviceCode": "5-019",
+      "areaName": "Nain"
+    },
+    {
+      "serviceCode": "5-286",
+      "areaName": "Niagara"
+    },
+    {
+      "serviceCode": "5-382",
+      "areaName": "Wawa"
+    },
+    {
+      "serviceCode": "5-293",
+      "areaName": "Kitchener-Waterloo/Guelph"
+    },
+    {
+      "serviceCode": "5-383",
+      "areaName": "Thessalon"
+    },
+    {
+      "serviceCode": "5-082",
+      "areaName": "Campbellton"
+    },
+    {
+      "serviceCode": "5-083",
+      "areaName": "Saint-Quentin"
+    },
+    {
+      "serviceCode": "5-142",
+      "areaName": "Trois-Rives"
+    },
+    {
+      "serviceCode": "5-141",
+      "areaName": "La Tuque"
+    },
+    {
+      "serviceCode": "5-232",
+      "areaName": "Amos"
+    },
+    {
+      "serviceCode": "5-233",
+      "areaName": "Barraute"
+    },
+    {
+      "serviceCode": "5-231",
+      "areaName": "Saint-Félix-de-Dalquier"
+    },
+    {
+      "serviceCode": "5-373",
+      "areaName": "Kirkland Lake"
+    },
+    {
+      "serviceCode": "5-374",
+      "areaName": "New Liskeard"
+    },
+    {
+      "serviceCode": "5-294",
+      "areaName": "Wellesley"
+    },
+    {
+      "serviceCode": "5-433",
+      "areaName": "Midale"
+    },
+    {
+      "serviceCode": "5-432",
+      "areaName": "Weyburn"
+    },
+    {
+      "serviceCode": "5-339",
+      "areaName": "Wallaceburg"
+    },
+    {
+      "serviceCode": "5-340",
+      "areaName": "Chatham-Kent North"
+    },
+    {
+      "serviceCode": "5-005",
+      "areaName": "Avalon South"
+    },
+    {
+      "serviceCode": "5-006",
+      "areaName": "Placentia"
+    },
+    {
+      "serviceCode": "5-229",
+      "areaName": "La Sarre"
+    },
+    {
+      "serviceCode": "5-230",
+      "areaName": "Macamic"
+    },
+    {
+      "serviceCode": "5-080",
+      "areaName": "Clair"
+    },
+    {
+      "serviceCode": "5-081",
+      "areaName": "Edmundston"
+    },
+    {
+      "serviceCode": "5-296",
+      "areaName": "Fergus"
+    },
+    {
+      "serviceCode": "5-391",
+      "areaName": "Fort Frances"
+    },
+    {
+      "serviceCode": "5-390",
+      "areaName": "Atikokan"
+    },
+    {
+      "serviceCode": "5-245",
+      "areaName": "Chibougamau"
+    },
+    {
+      "serviceCode": "5-249",
+      "areaName": "Kuujjuaq"
+    },
+    {
+      "serviceCode": "5-248",
+      "areaName": "Schefferville"
+    },
+    {
+      "serviceCode": "5-479",
+      "areaName": "Wollaston Lake"
+    },
+    {
+      "serviceCode": "5-477",
+      "areaName": "La Ronge"
+    },
+    {
+      "serviceCode": "5-423",
+      "areaName": "Grand Rapids"
+    },
+    {
+      "serviceCode": "5-424",
+      "areaName": "The Pas"
+    },
+    {
+      "serviceCode": "5-200",
+      "areaName": "Hawkesbury"
+    },
+    {
+      "serviceCode": "5-311",
+      "areaName": "Listowel"
+    },
+    {
+      "serviceCode": "5-201",
+      "areaName": "Alexandria"
+    },
+    {
+      "serviceCode": "5-202",
+      "areaName": "Wendover"
+    },
+    {
+      "serviceCode": "5-199",
+      "areaName": "Saint-André-Avellin"
+    },
+    {
+      "serviceCode": "5-218",
+      "areaName": "Fort-Coulonge"
+    },
+    {
+      "serviceCode": "5-221",
+      "areaName": "Petawawa"
+    },
+    {
+      "serviceCode": "5-236",
+      "areaName": "Ashuapmushuan"
+    },
+    {
+      "serviceCode": "5-237",
+      "areaName": "Roberval"
+    },
+    {
+      "serviceCode": "5-239",
+      "areaName": "Sainte-Élisabeth-de-Proulx"
+    },
+    {
+      "serviceCode": "5-238",
+      "areaName": "Mistassini"
+    },
+    {
+      "serviceCode": "5-275",
+      "areaName": "Alpine Village"
+    },
+    {
+      "serviceCode": "5-312",
+      "areaName": "Mitchell"
+    },
+    {
+      "serviceCode": "5-276",
+      "areaName": "Bobcaygeon"
+    },
+    {
+      "serviceCode": "5-268",
+      "areaName": "Campbellford"
+    },
+    {
+      "serviceCode": "5-267",
+      "areaName": "Stirling"
+    },
+    {
+      "serviceCode": "5-365",
+      "areaName": "Noëlville"
+    },
+    {
+      "serviceCode": "5-364",
+      "areaName": "Parry Sound"
+    },
+    {
+      "serviceCode": "5-371",
+      "areaName": "Espanola"
+    },
+    {
+      "serviceCode": "5-429",
+      "areaName": "Carlyle"
+    },
+    {
+      "serviceCode": "5-428",
+      "areaName": "Carnduff"
+    },
+    {
+      "serviceCode": "5-431",
+      "areaName": "Estevan"
+    },
+    {
+      "serviceCode": "5-472",
+      "areaName": "Melfort"
+    },
+    {
+      "serviceCode": "5-321",
+      "areaName": "Woodstock"
+    },
+    {
+      "serviceCode": "5-473",
+      "areaName": "Nipawin"
+    },
+    {
+      "serviceCode": "5-469",
+      "areaName": "Wakaw"
+    },
+    {
+      "serviceCode": "5-471",
+      "areaName": "Tisdale"
+    },
+    {
+      "serviceCode": "5-466",
+      "areaName": "Shellbrook"
+    },
+    {
+      "serviceCode": "5-525",
+      "areaName": "Edson"
+    },
+    {
+      "serviceCode": "5-526",
+      "areaName": "Jasper"
+    },
+    {
+      "serviceCode": "5-507",
+      "areaName": "Canmore"
+    },
+    {
+      "serviceCode": "5-508",
+      "areaName": "Banff"
+    },
+    {
+      "serviceCode": "5-579",
+      "areaName": "Hope"
+    },
+    {
+      "serviceCode": "5-593",
+      "areaName": "Tofino/Ucluelet"
+    },
+    {
+      "serviceCode": "5-320",
+      "areaName": "Plattsville"
+    },
+    {
+      "serviceCode": "5-592",
+      "areaName": "Port Alberni"
+    },
+    {
+      "serviceCode": "5-591",
+      "areaName": "Lake Cowichan"
+    },
+    {
+      "serviceCode": "5-600",
+      "areaName": "Bella Coola"
+    },
+    {
+      "serviceCode": "5-598",
+      "areaName": "Powell River"
+    },
+    {
+      "serviceCode": "5-602",
+      "areaName": "Squamish/Whistler"
+    },
+    {
+      "serviceCode": "5-601",
+      "areaName": "Lillooet"
+    },
+    {
+      "serviceCode": "5-599",
+      "areaName": "Heriot Bay"
+    },
+    {
+      "serviceCode": "5-612",
+      "areaName": "Blind Bay"
+    },
+    {
+      "serviceCode": "5-643",
+      "areaName": "Sanikiluaq"
+    },
+    {
+      "serviceCode": "5-641",
+      "areaName": "Iqaluit"
+    },
+    {
+      "serviceCode": "5-487",
+      "areaName": "Coaldale"
+    },
+    {
+      "serviceCode": "5-325",
+      "areaName": "Ilderton"
+    },
+    {
+      "serviceCode": "5-642",
+      "areaName": "Cape Dorset"
+    },
+    {
+      "serviceCode": "5-644",
+      "areaName": "Arviat"
+    },
+    {
+      "serviceCode": "5-652",
+      "areaName": "Hay River-Nahanni"
+    },
+    {
+      "serviceCode": "5-650",
+      "areaName": "Tlicho"
+    },
+    {
+      "serviceCode": "5-654",
+      "areaName": "Inuvialuit-Gwich'in"
+    },
+    {
+      "serviceCode": "5-647",
+      "areaName": "Fort Smith"
+    },
+    {
+      "serviceCode": "5-653",
+      "areaName": "Sahtu"
+    },
+    {
+      "serviceCode": "5-639",
+      "areaName": "Whitehorse"
+    },
+    {
+      "serviceCode": "5-640",
+      "areaName": "Dawson City"
+    },
+    {
+      "serviceCode": "5-637",
+      "areaName": "Faro"
+    },
+    {
+      "serviceCode": "5-319",
+      "areaName": "Norwich"
+    },
+    {
+      "serviceCode": "5-638",
+      "areaName": "Mayo"
+    },
+    {
+      "serviceCode": "5-284",
+      "areaName": "Halton"
+    },
+    {
+      "serviceCode": "5-570",
+      "areaName": "Maple Ridge"
+    },
+    {
+      "serviceCode": "5-283",
+      "areaName": "Peel"
+    },
+    {
+      "serviceCode": "5-194",
+      "areaName": "Saint-Jérôme"
+    },
+    {
+      "serviceCode": "5-191",
+      "areaName": "Saint-Rémi"
+    },
+    {
+      "serviceCode": "5-188",
+      "areaName": "Sainte-Julie"
+    },
+    {
+      "serviceCode": "5-190",
+      "areaName": "Longueuil"
+    },
+    {
+      "serviceCode": "5-192",
+      "areaName": "Châteauguay"
+    },
+    {
+      "serviceCode": "5-185",
+      "areaName": "Mascouche"
+    },
+    {
+      "serviceCode": "5-331",
+      "areaName": "Stratford"
+    },
+    {
+      "serviceCode": "5-186",
+      "areaName": "Laval"
+    },
+    {
+      "serviceCode": "5-499",
+      "areaName": "Calgary South"
+    },
+    {
+      "serviceCode": "5-498",
+      "areaName": "Okotoks"
+    },
+    {
+      "serviceCode": "5-580",
+      "areaName": "Harrison Hot Springs"
+    },
+    {
+      "serviceCode": "5-581",
+      "areaName": "Chilliwack South"
+    },
+    {
+      "serviceCode": "5-505",
+      "areaName": "Cochrane"
+    },
+    {
+      "serviceCode": "5-503",
+      "areaName": "Langdon"
+    },
+    {
+      "serviceCode": "5-563",
+      "areaName": "Kelowna"
+    },
+    {
+      "serviceCode": "5-560",
+      "areaName": "Lumby/Lavington"
+    },
+    {
+      "serviceCode": "5-566",
+      "areaName": "Keremeos"
+    },
+    {
+      "serviceCode": "5-332",
+      "areaName": "St. Marys"
+    },
+    {
+      "serviceCode": "5-564",
+      "areaName": "Osoyoos"
+    },
+    {
+      "serviceCode": "5-250",
+      "areaName": "Inukjuak"
+    },
+    {
+      "serviceCode": "5-246",
+      "areaName": "Chisasibi-Baie-James"
+    },
+    {
+      "serviceCode": "5-536",
+      "areaName": "Anzac"
+    },
+    {
+      "serviceCode": "5-090",
+      "areaName": "Sainte-Anne-des-Monts"
+    },
+    {
+      "serviceCode": "5-091",
+      "areaName": "Matane"
+    },
+    {
+      "serviceCode": "5-086",
+      "areaName": "Gaspé"
+    },
+    {
+      "serviceCode": "5-085",
+      "areaName": "Port-Menier"
+    },
+    {
+      "serviceCode": "5-084",
+      "areaName": "Fatima"
+    },
+    {
+      "serviceCode": "5-087",
+      "areaName": "Bonaventure"
+    },
+    {
+      "serviceCode": "5-334",
+      "areaName": "Chatham-Kent"
+    },
+    {
+      "serviceCode": "5-089",
+      "areaName": "Maria"
+    },
+    {
+      "serviceCode": "5-088",
+      "areaName": "New Richmond"
+    },
+    {
+      "serviceCode": "5-648",
+      "areaName": "Yellowknife"
+    },
+    {
+      "serviceCode": "5-467",
+      "areaName": "Kinistino"
+    },
+    {
+      "serviceCode": "5-372",
+      "areaName": "Chapleau"
+    },
+    {
+      "serviceCode": "5-378",
+      "areaName": "Hearst"
+    },
+    {
+      "serviceCode": "5-379",
+      "areaName": "Fort Hope/Attawapiskat River"
+    },
+    {
+      "serviceCode": "5-377",
+      "areaName": "Moose Factory"
+    },
+    {
+      "serviceCode": "5-155",
+      "areaName": "Victoriaville"
+    },
+    {
+      "serviceCode": "5-247",
+      "areaName": "Caniapiscau"
+    },
+    {
+      "serviceCode": "5-341",
+      "areaName": "Petrolia"
+    },
+    {
+      "serviceCode": "5-621",
+      "areaName": "Lower Post"
+    },
+    {
+      "serviceCode": "5-649",
+      "areaName": "MacKay Lake"
+    },
+    {
+      "serviceCode": "5-651",
+      "areaName": "Hottah Lake"
+    },
+    {
+      "serviceCode": "5-645",
+      "areaName": "Resolute Bay"
+    },
+    {
+      "serviceCode": "5-646",
+      "areaName": "Gjoa Haven"
+    },
+    {
+      "serviceCode": "5-342",
+      "areaName": "Corunna"
+    },
+    {
+      "serviceCode": "5-347",
+      "areaName": "London West"
+    },
+    {
+      "serviceCode": "5-345",
+      "areaName": "Poplar Hill"
+    },
+    {
+      "serviceCode": "5-346",
+      "areaName": "Strathroy"
+    },
+    {
+      "serviceCode": "5-491",
+      "areaName": "Pincher Creek"
+    },
+    {
+      "serviceCode": "5-349",
+      "areaName": "Barrie"
+    },
+    {
+      "serviceCode": "5-348",
+      "areaName": "Angus"
+    },
+    {
+      "serviceCode": "5-355",
+      "areaName": "Port McNicoll"
+    },
+    {
+      "serviceCode": "5-358",
+      "areaName": "Bracebridge"
+    },
+    {
+      "serviceCode": "5-359",
+      "areaName": "Huntsville"
+    },
+    {
+      "serviceCode": "5-357",
+      "areaName": "Gravenhurst"
+    },
+    {
+      "serviceCode": "5-362",
+      "areaName": "North Bay"
+    },
+    {
+      "serviceCode": "5-360",
+      "areaName": "Mattawa"
+    },
+    {
+      "serviceCode": "5-361",
+      "areaName": "Sturgeon Falls"
+    },
+    {
+      "serviceCode": "5-363",
+      "areaName": "Powassan"
+    },
+    {
+      "serviceCode": "5-486",
+      "areaName": "Raymond"
+    },
+    {
+      "serviceCode": "5-375",
+      "areaName": "Timmins"
+    },
+    {
+      "serviceCode": "5-220",
+      "areaName": "Pembroke"
+    },
+    {
+      "serviceCode": "5-219",
+      "areaName": "Cobden"
+    },
+    {
+      "serviceCode": "5-223",
+      "areaName": "Eganville"
+    },
+    {
+      "serviceCode": "5-222",
+      "areaName": "Barry's Bay"
+    },
+    {
+      "serviceCode": "5-224",
+      "areaName": "Renfrew"
+    },
+    {
+      "serviceCode": "5-225",
+      "areaName": "Arnprior"
+    },
+    {
+      "serviceCode": "5-251",
+      "areaName": "Lancaster"
+    },
+    {
+      "serviceCode": "5-259",
+      "areaName": "Flinton"
+    },
+    {
+      "serviceCode": "5-258",
+      "areaName": "Sydenham"
+    },
+    {
+      "serviceCode": "5-494",
+      "areaName": "Wainwright"
+    },
+    {
+      "serviceCode": "5-260",
+      "areaName": "Odessa"
+    },
+    {
+      "serviceCode": "5-263",
+      "areaName": "Deseronto"
+    },
+    {
+      "serviceCode": "5-266",
+      "areaName": "Bancroft"
+    },
+    {
+      "serviceCode": "5-265",
+      "areaName": "Tweed"
+    },
+    {
+      "serviceCode": "5-264",
+      "areaName": "Belleville"
+    },
+    {
+      "serviceCode": "5-277",
+      "areaName": "Lindsay"
+    },
+    {
+      "serviceCode": "5-093",
+      "areaName": "Amqui"
+    },
+    {
+      "serviceCode": "5-097",
+      "areaName": "Dégelis"
+    },
+    {
+      "serviceCode": "5-099",
+      "areaName": "Saint-Louis-du-Ha! Ha!"
+    },
+    {
+      "serviceCode": "5-107",
+      "areaName": "Saint-Ambroise"
+    }
+  ],
+  "tel": [
+    {
+      "serviceCode": "TEL-002",
+      "areaName": "Sept-Îles and Gaspésie, Beauce, Saint-Georges, Sainte-Clotilde-de-Beauce"
+    },
+    {
+      "serviceCode": "TEL-004",
+      "areaName": "Valcourt"
+    },
+    {
+      "serviceCode": "TEL-005",
+      "areaName": "La Baie"
+    },
+    {
+      "serviceCode": "TEL-006",
+      "areaName": "Courcelles"
+    },
+    {
+      "serviceCode": "TEL-007",
+      "areaName": "Lambton"
+    },
+    {
+      "serviceCode": "TEL-008",
+      "areaName": "Nantes"
+    },
+    {
+      "serviceCode": "TEL-009",
+      "areaName": "Saint-Victor"
+    },
+    {
+      "serviceCode": "TEL-010",
+      "areaName": "Warwick"
+    },
+    {
+      "serviceCode": "TEL-011",
+      "areaName": "Acton"
+    },
+    {
+      "serviceCode": "TEL-012",
+      "areaName": "Saint-Éphrem"
+    },
+    {
+      "serviceCode": "TEL-013",
+      "areaName": "Saint-Liboire"
+    },
+    {
+      "serviceCode": "TEL-014",
+      "areaName": "Etchemin, Nicolet, Saint-Ludger"
+    },
+    {
+      "serviceCode": "TEL-015",
+      "areaName": "Sainte-Rosalie, Notre-Dame-du-Bon-Conseil"
+    },
+    {
+      "serviceCode": "TEL-016",
+      "areaName": "Saint-Paulin"
+    },
+    {
+      "serviceCode": "TEL-017",
+      "areaName": "Québec, Charlevoix, Saguenay, Saint-Jean-Chrysostome, Bas Saint-Laurent, Saint-Nicolas, Saint-Étienne, Deschaillons, Fortierville, Villeroy, Île d'Orléans, Tring-Jonction, Lac-aux-Sables, Sainte-Agathe-de-Lotbinière, Bellechasse"
+    },
+    {
+      "serviceCode": "TEL-018",
+      "areaName": "Aylmer, Manitoulin Island East, Bruce Peninsula North, Coldwater, Cambray"
+    },
+    {
+      "serviceCode": "TEL-021",
+      "areaName": "Watford"
+    },
+    {
+      "serviceCode": "TEL-022",
+      "areaName": "Port Elgin"
+    },
+    {
+      "serviceCode": "TEL-024",
+      "areaName": "Thunder Bay"
+    },
+    {
+      "serviceCode": "TEL-025",
+      "areaName": "Dryden"
+    },
+    {
+      "serviceCode": "TEL-026",
+      "areaName": "Kenora"
+    },
+    {
+      "serviceCode": "TEL-027",
+      "areaName": "Woodstock, Port Franks"
+    },
+    {
+      "serviceCode": "TEL-028",
+      "areaName": "Cottam"
+    },
+    {
+      "serviceCode": "TEL-029",
+      "areaName": "Grand Bend"
+    },
+    {
+      "serviceCode": "TEL-030",
+      "areaName": "Goderich"
+    },
+    {
+      "serviceCode": "TEL-031",
+      "areaName": "Lansdowne"
+    },
+    {
+      "serviceCode": "TEL-032",
+      "areaName": "Mornington"
+    },
+    {
+      "serviceCode": "TEL-033",
+      "areaName": "Millbrook"
+    },
+    {
+      "serviceCode": "TEL-034",
+      "areaName": "Keene"
+    },
+    {
+      "serviceCode": "TEL-035",
+      "areaName": "North Frontenac"
+    },
+    {
+      "serviceCode": "TEL-036",
+      "areaName": "North Renfrew"
+    },
+    {
+      "serviceCode": "TEL-037",
+      "areaName": "Moosonee, Iroquois Falls, Marten River, Temagami"
+    },
+    {
+      "serviceCode": "TEL-038",
+      "areaName": "Forest"
+    },
+    {
+      "serviceCode": "TEL-039",
+      "areaName": "Kirkton, Uniondale"
+    },
+    {
+      "serviceCode": "TEL-040",
+      "areaName": "Moose Creek"
+    },
+    {
+      "serviceCode": "TEL-042",
+      "areaName": "Bayfield"
+    },
+    {
+      "serviceCode": "TEL-043",
+      "areaName": "Westport"
+    },
+    {
+      "serviceCode": "TEL-044",
+      "areaName": "Mildmay"
+    },
+    {
+      "serviceCode": "TEL-045",
+      "areaName": "Southern B.C., Dawson Creek Area"
+    },
+    {
+      "serviceCode": "TEL-046",
+      "areaName": "Fort Nelson Area"
+    },
+    {
+      "serviceCode": "TEL-047",
+      "areaName": "Prince Rupert"
+    },
+    {
+      "serviceCode": "TEL-048",
+      "areaName": "Rainy River District"
+    },
+    {
+      "serviceCode": "TEL-055",
+      "areaName": "Sioux Narrows-East Hawk Lake-Minaki"
+    },
+    {
+      "serviceCode": "TEL-057",
+      "areaName": "Grand Bend (PCS)"
+    },
+    {
+      "serviceCode": "TEL-062",
+      "areaName": "Cochrane"
+    },
+    {
+      "serviceCode": "TEL-063",
+      "areaName": "North-Eastern Ontario and HWY 144"
+    },
+    {
+      "serviceCode": "TEL-064",
+      "areaName": "Algoma, Hornpayne"
+    },
+    {
+      "serviceCode": "TEL-066",
+      "areaName": "Oxdrift, East Dryden"
+    },
+    {
+      "serviceCode": "TEL-068",
+      "areaName": "Lake Superior North, Sioux Lookout to Raith, Highway 105, Greenstone"
+    },
+    {
+      "serviceCode": "TEL-069",
+      "areaName": "South, North, East Ontario"
+    },
+    {
+      "serviceCode": "TEL-070",
+      "areaName": "Zurich"
+    },
+    {
+      "serviceCode": "TEL-071",
+      "areaName": "North-Eastern Ontario"
+    },
+    {
+      "serviceCode": "TEL-072",
+      "areaName": "Yukon Territory less Whitehorse"
+    },
+    {
+      "serviceCode": "TEL-073",
+      "areaName": "Whitehorse, NWT & Nunavut"
+    },
+    {
+      "serviceCode": "TEL-074",
+      "areaName": "South, North, East Ontario, Algoma, Hornpayne"
+    },
+    {
+      "serviceCode": "TEL-076",
+      "areaName": "Nipigon-Armstrong-Whitefish Lake"
+    },
+    {
+      "serviceCode": "TEL-078",
+      "areaName": "Deception Bay"
+    },
+    {
+      "serviceCode": "TEL-079",
+      "areaName": "South, North, East Ontario"
+    },
+    {
+      "serviceCode": "TEL-080",
+      "areaName": "Southern Quebec, Québec, Charlevoix, Saguenay, Bas Saint-Laurent, Thetford Mines, Plessisville, Saint-Rosaire, Victoriaville, Saint-Barnabé South, Saint-Valérien-de-Milton, Saint-Jacques-de-Horton, Hudson's Bay"
+    },
+    {
+      "serviceCode": "TEL-081",
+      "areaName": "Abitibi and James Bay, Mont-Laurier, Les Bois-Francs, Saint-Ours, Magdalen Islands, Clarendon, Bedford, Drummondville-Sud, Château-Richer, Frontenac"
+    },
+    {
+      "serviceCode": "TEL-082",
+      "areaName": "Sept-Îles and Gaspésie, Beauce"
+    },
+    {
+      "serviceCode": "TEL-083",
+      "areaName": "Grassy Narrows, Koko Lake, Folyet"
+    },
+    {
+      "serviceCode": "TEL-084",
+      "areaName": "Sept-Îles et Gaspésie, Beauce, Saint-Georges, Sainte-Clotilde-de-Beauce"
+    },
+    {
+      "serviceCode": "TEL-085",
+      "areaName": "Quebec City"
+    },
+    {
+      "serviceCode": "TEL-086",
+      "areaName": "Montreal"
+    },
+    {
+      "serviceCode": "TEL-087",
+      "areaName": "Ottawa-Gatineau"
+    }
+  ]
+}
